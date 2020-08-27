@@ -2,11 +2,11 @@
 	"image_list": [
 		{
 		"id": "001",
-		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/gallery001.jpg"
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/album001.jpg"
 		},
 		{
 		"id": "002",
-		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/gallery002.jpg"
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/album002.jpg"
 		}
 	]
 }
