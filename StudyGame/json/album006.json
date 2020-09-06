@@ -2,7 +2,7 @@
 	"id": "006",
 	"title": "真田昌幸",
 	"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char6.jpg",
-	"kamon": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/kamon_6.png"
-	"summary": "徳川の大軍を二度にわたり撃退した知略の名将。\n別名：喜兵衛\n家紋：六連銭（ろくれんせん）"
+	"kamon": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/kamon_6.png",
+	"summary": "徳川の大軍を二度にわたり撃退した知略の名将。\n別名：喜兵衛\n家紋：六連銭（ろくれんせん）",
 	"history": "1561/09　　第四次川中島の戦い\n1569/10　　三増峠の戦い\n1573/01　　三方ヶ原の戦い\n1585/08　　第一次上田合戦\n1600/09　　第二次上田合戦"
 }
