@@ -1,6 +1,8 @@
 {
 	"id": "003",
-	"title": "TOYOTA Logo",
-	"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/album003.jpg",
-	"summary": "TOYOTA Logo defail information."
+	"title": "徳川家康",
+	"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char3.jpg",
+	"kamon": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/kamon_3.png"
+	"summary": "戦国の三英傑の一人。天下人。戦国時代に終止符を打ち、朝廷より征夷大将軍に任ぜられ江戸幕府を開く。徳川260余年の礎を築いた堅実の慎重派。\nあだ名：狸親父\n家紋：三葉葵（みつばあおい）"
+	"history": "1560/05　　桶狭間の戦い\n1563/10　　三河一向一揆\n1570/04　　金ヶ崎の戦い\n1570/06　　姉川の戦い\n1572/10　　二俣城の戦い\n1573/01　　三方ヶ原の戦い\n1574/05　　第一次高天神城の戦い\n1575/05　　長篠の戦い\n1580/10　　第二次高天神城の戦い\n1584/03　　小牧・長久手の戦い\n1600/10　　関ヶ原の戦い\n1614/11　　大坂冬の陣\n1615/05　　大坂夏の陣"
 }

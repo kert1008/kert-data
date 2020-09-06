@@ -2,15 +2,27 @@
 	"image_list": [
 		{
 		"id": "001",
-		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/album001.jpg"
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char1.jpg"
 		},
 		{
 		"id": "002",
-		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/album002.jpg"
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char2.jpg"
 		},
 		{
 		"id": "003",
-		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/album003.jpg"
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char3.jpg"
+		}
+		{
+		"id": "004",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char4.jpg"
+		},
+		{
+		"id": "005",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char5.jpg"
+		},
+		{
+		"id": "006",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char6.jpg"
 		}
 	]
 }

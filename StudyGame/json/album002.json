@@ -1,6 +1,8 @@
 {
 	"id": "002",
-	"title": "Lexus Logo",
-	"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/album002.jpg",
-	"summary": "Lexus Logo defail information."
+	"title": "豊臣秀吉",
+	"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char2.jpg",
+	"kamon": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/kamon_2.png"
+	"summary": "戦国の三英傑の一人。天下人、初代武家関白、太閤。草履取りから天下を取った男。\nあだ名：猿、木綿藤吉、豊太閤\n家紋：五七桐（ごしちのきり）"
+	"history": "1570/04　　金ヶ崎の戦い\n1577/02　　雑賀侵攻\n1577/09　　手取川の戦い\n1577/10　　信貴山城の戦い\n1578/03　　三木城の戦い\n1581/06　　鳥取城攻め\n1582/04　　備中高松城の戦い\n1582/06　　山崎の戦い\n1583/04　　賤ヶ岳の戦い\n1584/03　　小牧・長久手の戦い\n1585/03　　紀州征伐\n1585/06　　四国攻め\n1585/08　　富山の役\n1586/07　　九州征伐\n1590/02　　小田原征伐\n1592/04　　朝鮮出兵（文禄の役）\n1597/02　　朝鮮出兵（慶長の役）"
 }
