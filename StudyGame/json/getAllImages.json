@@ -2,15 +2,183 @@
 	"image_list": [
 		{
 		"id": "001",
-		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/album001.jpg"
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char1.jpg"
 		},
 		{
 		"id": "002",
-		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/album002.jpg"
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char2.jpg"
 		},
 		{
 		"id": "003",
-		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/album003.jpg"
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char3.jpg"
+		},
+		{
+		"id": "004",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char4.jpg"
+		},
+		{
+		"id": "005",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char5.jpg"
+		},
+		{
+		"id": "006",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char6.jpg"
+		},
+				{
+		"id": "007",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char7.jpg"
+		},
+		{
+		"id": "008",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char8.jpg"
+		},
+		{
+		"id": "009",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char9.jpg"
+		},
+		{
+		"id": "010",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char10.jpg"
+		},
+		{
+		"id": "011",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char11.jpg"
+		},
+		{
+		"id": "012",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char12.jpg"
+		},
+		{
+		"id": "013",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char13.jpg"
+		},
+		{
+		"id": "014",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char14.jpg"
+		},
+		{
+		"id": "015",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char15.jpg"
+		},
+		{
+		"id": "016",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char16.jpg"
+		},
+		{
+		"id": "017",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char17.jpg"
+		},
+		{
+		"id": "018",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char18.jpg"
+		},
+		{
+		"id": "019",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char19.jpg"
+		},
+		{
+		"id": "020",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char20.jpg"
+		},
+		{
+		"id": "021",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char21.jpg"
+		},
+		{
+		"id": "022",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char22.jpg"
+		},
+		{
+		"id": "023",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char23.jpg"
+		},
+		{
+		"id": "024",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char24.jpg"
+		},
+		{
+		"id": "025",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char25.jpg"
+		},
+		{
+		"id": "026",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char26.jpg"
+		},
+		{
+		"id": "027",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char27.jpg"
+		},
+		{
+		"id": "028",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char28.jpg"
+		},
+		{
+		"id": "029",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char29.jpg"
+		},
+		{
+		"id": "030",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char30.jpg"
+		},
+		{
+		"id": "031",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char31.jpg"
+		},
+		{
+		"id": "032",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char32.jpg"
+		},
+		{
+		"id": "033",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char33.jpg"
+		},
+		{
+		"id": "034",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char34.jpg"
+		},
+		{
+		"id": "035",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char35.jpg"
+		},
+		{
+		"id": "036",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char36.jpg"
+		},
+		{
+		"id": "037",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char37.jpg"
+		},
+		{
+		"id": "038",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char38.jpg"
+		},
+		{
+		"id": "039",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char39.jpg"
+		},
+		{
+		"id": "040",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char40.jpg"
+		},
+		{
+		"id": "041",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char41.jpg"
+		},
+		{
+		"id": "042",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char42.jpg"
+		},
+		{
+		"id": "043",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char43.jpg"
+		},
+		{
+		"id": "044",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char44.jpg"
+		},
+		{
+		"id": "045",
+		"image": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/image/img_char45.jpg"
 		}
 	]
 }
