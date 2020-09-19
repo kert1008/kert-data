@@ -1,22 +1,801 @@
 {
 	"question_list": [
 		{
-		"question": "question001",
-		"answer": "answer001",
-		"category": 1,
+		"question": "物事に全力を尽くすこと。",
+		"answer": "一生懸命",
+		"category": 5,
 		"type": 1
-
 		},
 		{
-		"question": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/questionImage/math20200919.jpg",
-		"answer": "answer002",
-		"category": 2,
-		"type": 2
+		"question": "優れた才能や経験を持っていること。また、非常に強いこと。",
+		"answer": "一騎当千",
+		"category": 5,
+		"type": 1
 		},
 		{
-		"question": "question003",
-		"answer": "answer003",
-		"category": 3,
+		"question": "わずかに状況が変わるたび、喜んだり心配したりして、落ち着かない様子。",
+		"answer": "一喜一憂",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "わずかな苦労で一度に大儲けすること。",
+		"answer": "一攫千金",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "他の人と行動や運命を共にすること。",
+		"answer": "一蓮托生",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "一目見ただけで明らかによくわかること。",
+		"answer": "一目瞭然",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "悪人の集団などを、一度にまとめて捕まえてしまうこと。",
+		"answer": "一網打尽",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "広々とした野原や山から見た景色などが、遠くまで見渡せるほどに開けていること。",
+		"answer": "一望千里",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "過去の考えを改めて何かを成し遂げようと決心すること。",
+		"answer": "一念発起",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "一日をとても長く感じてしまうくらい、待ち遠しいこと。",
+		"answer": "一日千秋",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "人との出会いは生涯で一度限りであるとの思いでその機会を大切にするべきであるという考え。",
+		"answer": "一期一会",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "何かあるたびに、とにかく一言でも自分の意見を言わなければ気が済まない人。",
+		"answer": "一言居士",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "言葉を使わなくても、お互いの気持ちが相手に伝わっていること。",
+		"answer": "以心伝心",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "多くの人が同じことを言うこと。みんなの意見や考えが同じであること。",
+		"answer": "異口同音",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "満足していて、誇らしげな様子。",
+		"answer": "意気揚々",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "気持ちが通じ合い、親しくなる。",
+		"answer": "意気投合",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "がっかりして、元気をなくしている様子。",
+		"answer": "意気消沈",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "どうすればいいかわからないまま、色々と考え試してみること。",
+		"answer": "暗中模索",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "言いたい放題、色々な悪口を言うこと。",
+		"answer": "悪口雑言",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "手ごわい相手との苦しい戦い。また、そのような苦しい状況において、必死に努力すること。",
+		"answer": "悪戦苦闘",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "文章を書くときや物事を組み立てるときの順序。",
+		"answer": "起承転結",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "死にかけている人を生き返らせること。絶望的な状態を立ち直らせること。",
+		"answer": "起死回生",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "一つ間違えば大変なことになるような、危機が迫っている瀬戸際の状態。",
+		"answer": "危機一髪",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "非常につらい困難に出会って、悩み苦しむこと。",
+		"answer": "艱難辛苦",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "足りないところや欠点が一つもなく完璧なこと。",
+		"answer": "完全無欠",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "慣習的な慶弔儀礼の総称。",
+		"answer": "冠婚葬祭",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "自分に都合よく有利になるように行動したり言ったりすること。",
+		"answer": "我田引水",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "口を開いて、話し始めてすぐに、ということ。",
+		"answer": "開口一番",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "関係のない第三者のほうが、当事者よりも物事を正しく判断できるということ。",
+		"answer": "岡目八目",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "雲や霧が消えるときのように、その物が跡形もなく消えてしまうこと。",
+		"answer": "雲散霧消",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "事情が込み入っていて、物事が複雑であること。",
+		"answer": "紆余曲折",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "長年さまざまなことを経験して、ずるがしこく、したたかになっている人のこと。",
+		"answer": "海千山千",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "うろたえ混乱して、あちらこちらに動き回ること。",
+		"answer": "右往左往",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "丁寧すぎ、かえって無礼である。表向きは丁寧にふるまっていても、内心では相手を見下していること。",
+		"answer": "慇懃無礼",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "善い行いや悪い行いをすると、それに応じた報いがあるということ。",
+		"answer": "因果応報",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "ひとつの行いで同時にふたつの利益を得ること。",
+		"answer": "一石二鳥",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "他のことに心が乱れることなく、一つのことに集中すること。",
+		"answer": "一心不乱",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "二人以上の人が心も体も一つであるかのように固く結束すること。",
+		"answer": "一心同体",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "情勢や状態などが良くなったり悪くなったり、また、進んだり後戻りしたりすること。",
+		"answer": "一進一退",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "ちょっとしたことで大事になりそうな、危険で緊迫した状態にあること。",
+		"answer": "一触即発",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "山や川の景色が美しい様子。山が日の光で紫に見えて、川の流れが清らかである様子。",
+		"answer": "山紫水明",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "数人ずつの人が行ったり、または集まってきたりするさま。物や建物などが散在するさま。",
+		"answer": "三々五々",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "寒い日が三日続いた後に、暖かい日が四日続き、それが繰り返されるという、冬の気候を表した言葉。",
+		"answer": "三寒四温",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "素晴らしい才能と美しい顔かたちの両方を合わせ持つ女性をほめる言葉。",
+		"answer": "才色兼備",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "繰り返し何度も同じことをする。",
+		"answer": "再三再四",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "言葉で言い表せないようなひどいこと。とんでもないこと。",
+		"answer": "言語道断",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "一人ぼっちで、他の人からの手助けなどがないこと。",
+		"answer": "孤立無援",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "昔も今も、どんなところでも。いつでもどこでも。",
+		"answer": "古今東西",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "やましいことがなく公平で、大きく堂々としていること。",
+		"answer": "公明正大",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "一方に偏ったりせず公平で、私心を持たないこと。",
+		"answer": "公平無私",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "言っていることや考えていることに根拠がなく、でたらめなこと。",
+		"answer": "荒唐無稽",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "筆記試験と違い、質問に口頭で （口で直接話して） 答える試験。口述試験。",
+		"answer": "口頭試問",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "果てしないほど広いこと。",
+		"answer": "広大無辺",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "恥知らずでずうずうしいこと。",
+		"answer": "厚顔無恥",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "今までにも、これからもめったにないと思われるような、珍しいこと。",
+		"answer": "空前絶後",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "あとからあとから興味がわいて尽きることがない様子。",
+		"answer": "興味津々",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "器用な人は、かえってそのために他人に利用されたり、一つのことに集中できずに損をしてしまうこと。",
+		"answer": "器用貧乏",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "行き詰まっていた物事の成り行きが変わって、一気に決着に向かうこと。",
+		"answer": "急転直下",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "普通では思いつかないような、奇抜なこと。",
+		"answer": "奇想天外",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "喜びの感情が顔中に満ちている様子。",
+		"answer": "喜色満面",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "①よく晴れた日のこと。 ②心中に後ろめたいことがないこと。 ③無罪であることが明らかになること。",
+		"answer": "青天白日",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "卑怯なことをせず、正しくて堂々とした態度をとること。",
+		"answer": "正々堂々",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "何かにわずらわされたりせず、思いのままにのんびりとした生活を送ること。悠々自適。",
+		"answer": "晴耕雨読",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "この世界に存在する、ありとあらゆるもののこと。",
+		"answer": "森羅万象",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "小さなことを大げさに、誇張して言うこと。",
+		"answer": "針小棒大",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "何かをきっかけにして、気持ちがすっかり変わること。",
+		"answer": "心機一転",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "物事の中心から外れている、細かくてどうでもいい部分のこと。",
+		"answer": "枝葉末節",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "物事が自分の思い通りに、順調に運んでいく様子のたとえ。",
+		"answer": "順風満帆",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "良いものや必要なものを選んで残し、悪いものやいらないものは捨ててしまうこと。",
+		"answer": "取捨選択",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "物事の立場や段取りなどを取り違えること。客と主人の力関係が入れ替わること。",
+		"answer": "主客転倒",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "好みや考えかた、性格などは、人それぞれで違っていること。",
+		"answer": "十人十色",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "態度や考えが、始めから終わりまで変わらないこと。",
+		"answer": "終始一貫",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "弱いものは強いもののえじきとなって滅び、強いものが繁栄すること。",
+		"answer": "弱肉強食",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "何度失敗しても、くじけずに立ち上がり行動し続けること。",
+		"answer": "七転八起",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "自分が過去にした悪い行いがもたらした結果を、自分で受けること。",
+		"answer": "自業自得",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "失敗を繰り返しながら色々試してみて、物事を解決しようとすること。",
+		"answer": "試行錯誤",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "思うようにならなくて、非常に苦しむこと。",
+		"answer": "四苦八苦",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "自分に必要なものを、他から手に入れずに、自分自身で作ってまかなうこと。",
+		"answer": "自給自足",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "自分自身や、自分がしたこと、自分が作った物などを自分でほめること。",
+		"answer": "自画自賛",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "何度も人に頭を下げること。また、そのようにして人に何かを頼むこと。",
+		"answer": "三拝九拝",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "絶え間なく、急速に進歩していること。",
+		"answer": "日進月歩",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "値段が非常に安いこと。投げ売りのような安値。",
+		"answer": "二束三文",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "仕事や目的のために、あちこちをいそがしく駆け回ること。",
+		"answer": "東奔西走",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "その場の状況にあわせて、すばやく適切な対応をとること。",
+		"answer": "当意即妙",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "自然界で起こる、台風や地震、火山噴火などの異変や災害のこと。",
+		"answer": "天変地異",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "自分のことを飾らず、ありのままでいること。無邪気で明るいこと。",
+		"answer": "天真爛漫",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "自分で自分のしたことをほめること。",
+		"answer": "手前味噌",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "その人の才能や性格にふさわしい地位や仕事を与えること。",
+		"answer": "適材適所",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "何かをなそうとするときに、自分で努力せずに、他人のことを当てにすること。",
+		"answer": "他力本願",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "小さな違いがあっても、全体的にみればほぼ同じだということ。",
+		"answer": "大同小異",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "度胸があって、何事にも動じることがないこと。",
+		"answer": "大胆不敵",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "物事に動じず、落ち着き払っている様子。",
+		"answer": "泰然自若",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "自分の実力に見合わない、威勢のいいことやできそうにないことを言うこと。",
+		"answer": "大言壮語",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "何らかの行動を起こす時に根拠にする、誰もが正しいと思える理由。",
+		"answer": "大義名分",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "物事の状況や状態がさまざまに変化すること。",
+		"answer": "千変万化",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "戦うときは、相手より先に攻撃すれば必ず勝てるということ。",
+		"answer": "先手必勝",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "今まで聞いたことがないような、驚くべきこと。非常に変わった、めずらしいこと。",
+		"answer": "前代未聞",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "①いまだかつて、だれも成功していないこと。 ②それまで誰も行ったことがないところ。",
+		"answer": "前人未到",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "物事は種々様々あって違いも色々であるということ。",
+		"answer": "千差万別",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "逃げることのできない、差し迫った立場、場面にあること。",
+		"answer": "絶体絶命",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "話し合っても意味がないこと。議論の必要がないこと。",
+		"answer": "問答無用",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "持ち出しや貸し出しを許さないような、とても貴重な品物。",
+		"answer": "門外不出",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "①理屈に合わない言いがかり。 ②とても実現できそうにない、難しい要求。",
+		"answer": "無理難題",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "話の内容などに、味わいやおもしろみが欠けていること。",
+		"answer": "無味乾燥",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "病気にひとつもかからずに、健康であること。",
+		"answer": "無病息災",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "何かに熱中して、我を忘れて行動すること。",
+		"answer": "無我夢中",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "飽きっぽくて、何をやっても長続きしない人。",
+		"answer": "三日坊主",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "会議などの時に、その場にいる全員の意見が一致すること。",
+		"answer": "満場一致",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "大切なこととそうでないことを取り違えること。",
+		"answer": "本末転倒",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "物事を頼んだり、許してもらったりするために、ひたすら頭を下げること。",
+		"answer": "平身低頭",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "眠ったり休んだりせずに、物事をやりとげようとすること。",
+		"answer": "不眠不休",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "あれこれ言わずに、やるべきことを黙って実行すること。",
+		"answer": "不言実行",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "予想していたこと、計画していたことなどがすべて的中すること。",
+		"answer": "百発百中",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "うわべだけをきれいに飾った、聞いて心地よいが内容の無い言葉。",
+		"answer": "美辞麗句",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "信じる気持ちと疑う気持ちが半々で、信じきれず判断に迷うこと。",
+		"answer": "半信半疑",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "生きるか死ぬかの境目にあること。",
+		"answer": "半死半生",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "物事の進み方などが、激しい変化に富んでいること。",
+		"answer": "波乱万丈",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "誰からもよく思われたいと思っている人。また、そう思われようと調子よくふるまう人。",
+		"answer": "八方美人",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "色々な本を読んでいて、その内容をしっかりと覚えている人。知識の豊富な人。",
+		"answer": "博覧強記",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "表情がやわらいで、にっこりと笑うこと。",
+		"answer": "破顔一笑",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "年齢や性別に関係なく、あらゆる人すべてということ。",
+		"answer": "老若男女",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "話や考え方などの筋道がきちんと通っていること。",
+		"answer": "理路整然",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "世間で言いふらされている、根拠のない無責任な噂。デマ。",
+		"answer": "流言飛語",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "社会に認められて、名声を得ること。",
+		"answer": "立身出世",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "人や物が、離れたり集まったりすること。",
+		"answer": "離合集散",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "利益と損害をまとめて強調した言葉。",
+		"answer": "利害得失",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "女性の体形や顔かたちが美しい様子。",
+		"answer": "容姿端麗",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "準備や用意が行き届いていて、不備や不足がないこと。",
+		"answer": "用意周到",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "油断していると思わぬ失敗をすることがある。油断してはいけないという戒め。",
+		"answer": "油断大敵",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "世の中と距離をおいて、自分の思うとおりにのんびりと生活すること。",
+		"answer": "悠々自適",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "勇敢で、思いきった行動をすること。",
+		"answer": "勇猛果敢",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "なかなか決心がつかない人。ぐずぐずしていて、決断力のない人。",
+		"answer": "優柔不断",
+		"category": 5,
+		"type": 1
+		},
+		{
+		"question": "世の中にただ一つしかない、かけがえのないもの。",
+		"answer": "唯一無二",
+		"category": 5,
 		"type": 1
 		}
 	]
