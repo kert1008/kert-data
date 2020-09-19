@@ -8,10 +8,10 @@
 
 		},
 		{
-		"question": "question002",
+		"question": "https://raw.githubusercontent.com/kert1008/kert-data/master/StudyGame/questionImage/math20200919.jpg",
 		"answer": "answer002",
 		"category": 2,
-		"type": 1
+		"type": 2
 		},
 		{
 		"question": "question003",
