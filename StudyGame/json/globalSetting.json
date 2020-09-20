@@ -1,11 +1,11 @@
 {
-	"version": 2,
+	"version": 1,
 	"isCalculationVisible": "true",
-	"isMathExerciseVisible": "true",
+	"isMathExerciseVisible": "false",
 	"isKotowazaVisible": "true",
 	"isKanyougoVisible": "true",
 	"isYojijukugoVisible": "true",
-	"isJapaneseOtherVisible": "true",
-	"isSocialVisible": "true",
-	"isScienceVisible": "true"
+	"isJapaneseOtherVisible": "false",
+	"isSocialVisible": "false",
+	"isScienceVisible": "false"
 }
