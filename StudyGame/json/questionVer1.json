@@ -3,6366 +3,7427 @@
 		{
 		"question": "物事に全力を尽くすこと。",
 		"answer": "一生懸命",
+		"answer_opt": "いっしょうけんめい",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "優れた才能や経験を持っていること。また、非常に強いこと。",
 		"answer": "一騎当千",
+		"answer_opt": "いっきとうせん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "わずかに状況が変わるたび、喜んだり心配したりして、落ち着かない様子。",
 		"answer": "一喜一憂",
+		"answer_opt": "いっきいちゆう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "わずかな苦労で一度に大儲けすること。",
 		"answer": "一攫千金",
+		"answer_opt": "いっかくせんきん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "他の人と行動や運命を共にすること。",
 		"answer": "一蓮托生",
+		"answer_opt": "いちれんたくしょう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "一目見ただけで明らかによくわかること。",
 		"answer": "一目瞭然",
+		"answer_opt": "いちもくりょうぜん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "悪人の集団などを、一度にまとめて捕まえてしまうこと。",
 		"answer": "一網打尽",
+		"answer_opt": "いちもうだじん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "広々とした野原や山から見た景色などが、遠くまで見渡せるほどに開けていること。",
 		"answer": "一望千里",
+		"answer_opt": "いちぼうせんり",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "過去の考えを改めて何かを成し遂げようと決心すること。",
 		"answer": "一念発起",
+		"answer_opt": "いちねんほっき",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "一日をとても長く感じてしまうくらい、待ち遠しいこと。",
 		"answer": "一日千秋",
+		"answer_opt": "いちじつせんしゅう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "人との出会いは生涯で一度限りであるとの思いでその機会を大切にするべきであるという考え。",
 		"answer": "一期一会",
+		"answer_opt": "いちごいちえ",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "何かあるたびに、とにかく一言でも自分の意見を言わなければ気が済まない人。",
 		"answer": "一言居士",
+		"answer_opt": "いちげんこじ",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "言葉を使わなくても、お互いの気持ちが相手に伝わっていること。",
 		"answer": "以心伝心",
+		"answer_opt": "いしんでんしん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "多くの人が同じことを言うこと。みんなの意見や考えが同じであること。",
 		"answer": "異口同音",
+		"answer_opt": "いくどうおん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "満足していて、誇らしげな様子。",
 		"answer": "意気揚々",
+		"answer_opt": "いきようよう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "気持ちが通じ合い、親しくなる。",
 		"answer": "意気投合",
+		"answer_opt": "いきとうごう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "がっかりして、元気をなくしている様子。",
 		"answer": "意気消沈",
+		"answer_opt": "いきしょうちん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "どうすればいいかわからないまま、色々と考え試してみること。",
 		"answer": "暗中模索",
+		"answer_opt": "あんちゅうもさく",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "言いたい放題、色々な悪口を言うこと。",
 		"answer": "悪口雑言",
+		"answer_opt": "あっこうぞうごん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "手ごわい相手との苦しい戦い。また、そのような苦しい状況において、必死に努力すること。",
 		"answer": "悪戦苦闘",
+		"answer_opt": "あくせんくとう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "文章を書くときや物事を組み立てるときの順序。",
 		"answer": "起承転結",
+		"answer_opt": "きしょうてんけつ",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "死にかけている人を生き返らせること。絶望的な状態を立ち直らせること。",
 		"answer": "起死回生",
+		"answer_opt": "きしかいせい",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "一つ間違えば大変なことになるような、危機が迫っている瀬戸際の状態。",
 		"answer": "危機一髪",
+		"answer_opt": "ききいっぱつ",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "非常につらい困難に出会って、悩み苦しむこと。",
 		"answer": "艱難辛苦",
+		"answer_opt": "かんなんしんく",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "足りないところや欠点が一つもなく完璧なこと。",
 		"answer": "完全無欠",
+		"answer_opt": "かんぜんむけつ",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "慣習的な慶弔儀礼の総称。",
 		"answer": "冠婚葬祭",
+		"answer_opt": "かんこんそうさい",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "自分に都合よく有利になるように行動したり言ったりすること。",
 		"answer": "我田引水",
+		"answer_opt": "がでんいんすい",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "口を開いて、話し始めてすぐに、ということ。",
 		"answer": "開口一番",
+		"answer_opt": "かいこういちばん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "関係のない第三者のほうが、当事者よりも物事を正しく判断できるということ。",
 		"answer": "岡目八目",
+		"answer_opt": "おかめはちもく",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "雲や霧が消えるときのように、その物が跡形もなく消えてしまうこと。",
 		"answer": "雲散霧消",
+		"answer_opt": "うんさんむしょう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "事情が込み入っていて、物事が複雑であること。",
 		"answer": "紆余曲折",
+		"answer_opt": "うよきょくせつ",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "長年さまざまなことを経験して、ずるがしこく、したたかになっている人のこと。",
 		"answer": "海千山千",
+		"answer_opt": "うみせんやません",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "うろたえ混乱して、あちらこちらに動き回ること。",
 		"answer": "右往左往",
+		"answer_opt": "うおうさおう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "丁寧すぎ、かえって無礼である。表向きは丁寧にふるまっていても、内心では相手を見下していること。",
 		"answer": "慇懃無礼",
+		"answer_opt": "いんぎんぶれい",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "善い行いや悪い行いをすると、それに応じた報いがあるということ。",
 		"answer": "因果応報",
+		"answer_opt": "いんがおうほう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "ひとつの行いで同時にふたつの利益を得ること。",
 		"answer": "一石二鳥",
+		"answer_opt": "いっせきにちょう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "他のことに心が乱れることなく、一つのことに集中すること。",
 		"answer": "一心不乱",
+		"answer_opt": "いっしんふらん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "二人以上の人が心も体も一つであるかのように固く結束すること。",
 		"answer": "一心同体",
+		"answer_opt": "いっしんどうたい",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "情勢や状態などが良くなったり悪くなったり、また、進んだり後戻りしたりすること。",
 		"answer": "一進一退",
+		"answer_opt": "いっしんいったい",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "ちょっとしたことで大事になりそうな、危険で緊迫した状態にあること。",
 		"answer": "一触即発",
+		"answer_opt": "いっしょくそくはつ",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "山や川の景色が美しい様子。山が日の光で紫に見えて、川の流れが清らかである様子。",
 		"answer": "山紫水明",
+		"answer_opt": "さんしすいめい",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "数人ずつの人が行ったり、または集まってきたりするさま。物や建物などが散在するさま。",
 		"answer": "三々五々",
+		"answer_opt": "さんさんごご",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "寒い日が三日続いた後に、暖かい日が四日続き、それが繰り返されるという、冬の気候を表した言葉。",
 		"answer": "三寒四温",
+		"answer_opt": "さんかんしおん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "素晴らしい才能と美しい顔かたちの両方を合わせ持つ女性をほめる言葉。",
 		"answer": "才色兼備",
+		"answer_opt": "さいしょくけんび",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "繰り返し何度も同じことをする。",
 		"answer": "再三再四",
+		"answer_opt": "さいさんさいし",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "言葉で言い表せないようなひどいこと。とんでもないこと。",
 		"answer": "言語道断",
+		"answer_opt": "ごんごどうだん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "一人ぼっちで、他の人からの手助けなどがないこと。",
 		"answer": "孤立無援",
+		"answer_opt": "こりつむえん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "昔も今も、どんなところでも。いつでもどこでも。",
 		"answer": "古今東西",
+		"answer_opt": "ここんとうざい",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "やましいことがなく公平で、大きく堂々としていること。",
 		"answer": "公明正大",
+		"answer_opt": "こうめいせいだい",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "一方に偏ったりせず公平で、私心を持たないこと。",
 		"answer": "公平無私",
+		"answer_opt": "こうへいむし",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "言っていることや考えていることに根拠がなく、でたらめなこと。",
 		"answer": "荒唐無稽",
+		"answer_opt": "こうとうむけい",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "筆記試験と違い、質問に口頭で （口で直接話して） 答える試験。口述試験。",
 		"answer": "口頭試問",
+		"answer_opt": "こうとうしもん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "果てしないほど広いこと。",
 		"answer": "広大無辺",
+		"answer_opt": "こうだいむへん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "恥知らずでずうずうしいこと。",
 		"answer": "厚顔無恥",
+		"answer_opt": "こうがんむち",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "今までにも、これからもめったにないと思われるような、珍しいこと。",
 		"answer": "空前絶後",
+		"answer_opt": "くうぜんぜつご",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "あとからあとから興味がわいて尽きることがない様子。",
 		"answer": "興味津々",
+		"answer_opt": "きょうみしんしん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "器用な人は、かえってそのために他人に利用されたり、一つのことに集中できずに損をしてしまうこと。",
 		"answer": "器用貧乏",
+		"answer_opt": "きようびんぼう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "行き詰まっていた物事の成り行きが変わって、一気に決着に向かうこと。",
 		"answer": "急転直下",
+		"answer_opt": "きゅうてんちょっか",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "普通では思いつかないような、奇抜なこと。",
 		"answer": "奇想天外",
+		"answer_opt": "きそうてんがい",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "喜びの感情が顔中に満ちている様子。",
 		"answer": "喜色満面",
+		"answer_opt": "きしょくまんめん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "①よく晴れた日のこと。 ②心中に後ろめたいことがないこと。 ③無罪であることが明らかになること。",
 		"answer": "青天白日",
+		"answer_opt": "せいてんはくじつ",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "卑怯なことをせず、正しくて堂々とした態度をとること。",
 		"answer": "正々堂々",
+		"answer_opt": "せいせいどうどう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "何かにわずらわされたりせず、思いのままにのんびりとした生活を送ること。悠々自適。",
 		"answer": "晴耕雨読",
+		"answer_opt": "せいこううどく",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "この世界に存在する、ありとあらゆるもののこと。",
 		"answer": "森羅万象",
+		"answer_opt": "しんらばんしょう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "小さなことを大げさに、誇張して言うこと。",
 		"answer": "針小棒大",
+		"answer_opt": "しんしょうぼうだい",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "何かをきっかけにして、気持ちがすっかり変わること。",
 		"answer": "心機一転",
+		"answer_opt": "しんきいってん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "物事の中心から外れている、細かくてどうでもいい部分のこと。",
 		"answer": "枝葉末節",
+		"answer_opt": "しようまっせつ",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "物事が自分の思い通りに、順調に運んでいく様子のたとえ。",
 		"answer": "順風満帆",
+		"answer_opt": "じゅんぷうまんぱん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "良いものや必要なものを選んで残し、悪いものやいらないものは捨ててしまうこと。",
 		"answer": "取捨選択",
+		"answer_opt": "しゅしゃせんたく",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "物事の立場や段取りなどを取り違えること。客と主人の力関係が入れ替わること。",
 		"answer": "主客転倒",
+		"answer_opt": "しゅかくてんとう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "好みや考えかた、性格などは、人それぞれで違っていること。",
 		"answer": "十人十色",
+		"answer_opt": "じゅうにんといろ",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "態度や考えが、始めから終わりまで変わらないこと。",
 		"answer": "終始一貫",
+		"answer_opt": "しゅうしいっかん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "弱いものは強いもののえじきとなって滅び、強いものが繁栄すること。",
 		"answer": "弱肉強食",
+		"answer_opt": "じゃくにくきょうしょく",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "何度失敗しても、くじけずに立ち上がり行動し続けること。",
 		"answer": "七転八起",
+		"answer_opt": "しちてんはっき",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "自分が過去にした悪い行いがもたらした結果を、自分で受けること。",
 		"answer": "自業自得",
+		"answer_opt": "じごうじとく",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "失敗を繰り返しながら色々試してみて、物事を解決しようとすること。",
 		"answer": "試行錯誤",
+		"answer_opt": "しこうさくご",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "思うようにならなくて、非常に苦しむこと。",
 		"answer": "四苦八苦",
+		"answer_opt": "しくはっく",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "自分に必要なものを、他から手に入れずに、自分自身で作ってまかなうこと。",
 		"answer": "自給自足",
+		"answer_opt": "じきゅうじそく",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "自分自身や、自分がしたこと、自分が作った物などを自分でほめること。",
 		"answer": "自画自賛",
+		"answer_opt": "じがじさん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "何度も人に頭を下げること。また、そのようにして人に何かを頼むこと。",
 		"answer": "三拝九拝",
+		"answer_opt": "さんぱいきゅうはい",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "絶え間なく、急速に進歩していること。",
 		"answer": "日進月歩",
+		"answer_opt": "にっしんげっぽ",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "値段が非常に安いこと。投げ売りのような安値。",
 		"answer": "二束三文",
+		"answer_opt": "にそくさんもん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "仕事や目的のために、あちこちをいそがしく駆け回ること。",
 		"answer": "東奔西走",
+		"answer_opt": "とうほんせいそう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "その場の状況にあわせて、すばやく適切な対応をとること。",
 		"answer": "当意即妙",
+		"answer_opt": "とういそくみょう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "自然界で起こる、台風や地震、火山噴火などの異変や災害のこと。",
 		"answer": "天変地異",
+		"answer_opt": "てんぺんちい",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "自分のことを飾らず、ありのままでいること。無邪気で明るいこと。",
 		"answer": "天真爛漫",
+		"answer_opt": "てんしんらんまん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "自分で自分のしたことをほめること。",
 		"answer": "手前味噌",
+		"answer_opt": "てまえみそ",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "その人の才能や性格にふさわしい地位や仕事を与えること。",
 		"answer": "適材適所",
+		"answer_opt": "てきざいてきしょ",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "何かをなそうとするときに、自分で努力せずに、他人のことを当てにすること。",
 		"answer": "他力本願",
+		"answer_opt": "たりきほんがん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "小さな違いがあっても、全体的にみればほぼ同じだということ。",
 		"answer": "大同小異",
+		"answer_opt": "だいどうしょうい",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "度胸があって、何事にも動じることがないこと。",
 		"answer": "大胆不敵",
+		"answer_opt": "だいたんふてき",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "物事に動じず、落ち着き払っている様子。",
 		"answer": "泰然自若",
+		"answer_opt": "たいぜんじじゃく",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "自分の実力に見合わない、威勢のいいことやできそうにないことを言うこと。",
 		"answer": "大言壮語",
+		"answer_opt": "たいげんそうご",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "何らかの行動を起こす時に根拠にする、誰もが正しいと思える理由。",
 		"answer": "大義名分",
+		"answer_opt": "たいぎめいぶん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "物事の状況や状態がさまざまに変化すること。",
 		"answer": "千変万化",
+		"answer_opt": "せんぺんばんか",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "戦うときは、相手より先に攻撃すれば必ず勝てるということ。",
 		"answer": "先手必勝",
+		"answer_opt": "せんてひっしょう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "今まで聞いたことがないような、驚くべきこと。非常に変わった、めずらしいこと。",
 		"answer": "前代未聞",
+		"answer_opt": "ぜんだいみもん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "①いまだかつて、だれも成功していないこと。 ②それまで誰も行ったことがないところ。",
 		"answer": "前人未到",
+		"answer_opt": "ぜんじんみとう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "物事は種々様々あって違いも色々であるということ。",
 		"answer": "千差万別",
+		"answer_opt": "せんさばんべつ",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "逃げることのできない、差し迫った立場、場面にあること。",
 		"answer": "絶体絶命",
+		"answer_opt": "ぜったいぜつめい",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "話し合っても意味がないこと。議論の必要がないこと。",
 		"answer": "問答無用",
+		"answer_opt": "もんどうむよう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "持ち出しや貸し出しを許さないような、とても貴重な品物。",
 		"answer": "門外不出",
+		"answer_opt": "もんがいふしゅつ",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "①理屈に合わない言いがかり。 ②とても実現できそうにない、難しい要求。",
 		"answer": "無理難題",
+		"answer_opt": "むりなんだい",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "話の内容などに、味わいやおもしろみが欠けていること。",
 		"answer": "無味乾燥",
+		"answer_opt": "むみかんそう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "病気にひとつもかからずに、健康であること。",
 		"answer": "無病息災",
+		"answer_opt": "むびょうそくさい",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "何かに熱中して、我を忘れて行動すること。",
 		"answer": "無我夢中",
+		"answer_opt": "むがむちゅう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "飽きっぽくて、何をやっても長続きしない人。",
 		"answer": "三日坊主",
+		"answer_opt": "みっかぼうず",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "会議などの時に、その場にいる全員の意見が一致すること。",
 		"answer": "満場一致",
+		"answer_opt": "まんじょういっち",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "大切なこととそうでないことを取り違えること。",
 		"answer": "本末転倒",
+		"answer_opt": "ほんまつてんとう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "物事を頼んだり、許してもらったりするために、ひたすら頭を下げること。",
 		"answer": "平身低頭",
+		"answer_opt": "へいしんていとう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "眠ったり休んだりせずに、物事をやりとげようとすること。",
 		"answer": "不眠不休",
+		"answer_opt": "ふみんふきゅう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "あれこれ言わずに、やるべきことを黙って実行すること。",
 		"answer": "不言実行",
+		"answer_opt": "ふげんじっこう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "予想していたこと、計画していたことなどがすべて的中すること。",
 		"answer": "百発百中",
+		"answer_opt": "ひゃっぱつひゃくちゅう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "うわべだけをきれいに飾った、聞いて心地よいが内容の無い言葉。",
 		"answer": "美辞麗句",
+		"answer_opt": "びじれいく",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "信じる気持ちと疑う気持ちが半々で、信じきれず判断に迷うこと。",
 		"answer": "半信半疑",
+		"answer_opt": "はんしんはんぎ",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "生きるか死ぬかの境目にあること。",
 		"answer": "半死半生",
+		"answer_opt": "はんしはんしょう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "物事の進み方などが、激しい変化に富んでいること。",
 		"answer": "波乱万丈",
+		"answer_opt": "はらんばんじょう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "誰からもよく思われたいと思っている人。また、そう思われようと調子よくふるまう人。",
 		"answer": "八方美人",
+		"answer_opt": "はっぽうびじん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "色々な本を読んでいて、その内容をしっかりと覚えている人。知識の豊富な人。",
 		"answer": "博覧強記",
+		"answer_opt": "はくらんきょうき",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "表情がやわらいで、にっこりと笑うこと。",
 		"answer": "破顔一笑",
+		"answer_opt": "はがんいっしょう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "年齢や性別に関係なく、あらゆる人すべてということ。",
 		"answer": "老若男女",
+		"answer_opt": "ろうにゃくなんにょ",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "話や考え方などの筋道がきちんと通っていること。",
 		"answer": "理路整然",
+		"answer_opt": "りろせいぜん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "世間で言いふらされている、根拠のない無責任な噂。デマ。",
 		"answer": "流言飛語",
+		"answer_opt": "りゅうげんひご",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "社会に認められて、名声を得ること。",
 		"answer": "立身出世",
+		"answer_opt": "りっしんしゅっせ",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "人や物が、離れたり集まったりすること。",
 		"answer": "離合集散",
+		"answer_opt": "りごうしゅうさん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "利益と損害をまとめて強調した言葉。",
 		"answer": "利害得失",
+		"answer_opt": "りがいとくしつ",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "女性の体形や顔かたちが美しい様子。",
 		"answer": "容姿端麗",
+		"answer_opt": "ようしたんれい",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "準備や用意が行き届いていて、不備や不足がないこと。",
 		"answer": "用意周到",
+		"answer_opt": "よういしゅうとう",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "油断していると思わぬ失敗をすることがある。油断してはいけないという戒め。",
 		"answer": "油断大敵",
+		"answer_opt": "ゆだんたいてき",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "世の中と距離をおいて、自分の思うとおりにのんびりと生活すること。",
 		"answer": "悠々自適",
+		"answer_opt": "ゆうゆうじてき",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "勇敢で、思いきった行動をすること。",
 		"answer": "勇猛果敢",
+		"answer_opt": "ゆうもうかかん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "なかなか決心がつかない人。ぐずぐずしていて、決断力のない人。",
 		"answer": "優柔不断",
+		"answer_opt": "ゆうじゅうふだん",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "世の中にただ一つしかない、かけがえのないもの。",
 		"answer": "唯一無二",
+		"answer_opt": "ゆいいつむに",
 		"category": 5,
 		"type": 1
 		},
 		{
 		"question": "初夢に見ると縁起がいいとされるものを、順に並べた言葉。",
 		"answer": "いちふじにたかさんなすび",
+		"answer_opt": "一富士二鷹三茄子",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "次から次へと災難がやってくること。",
 		"answer": "いちなんさってまたいちなん",
+		"answer_opt": "一難去ってまた一難",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "ある一つのことを見れば、ほかのすべてのことも推察できる、ということ。",
 		"answer": "いちじがばんじ",
+		"answer_opt": "一事が万事",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "危険な近道を通るより、遠回りでも確実な道を通る方が早く目的地に着く。",
 		"answer": "いそがばまわれ",
+		"answer_opt": "急がば回れ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "どちらも優れていて、優劣がつけられないこと。",
 		"answer": "いずれあやめかかきつばた",
+		"answer_opt": "いずれ菖蒲か杜若",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "人には立派なことを言っておきながら、自分は、それを実践していないことのたとえ。",
 		"answer": "いしゃのふようじょう",
+		"answer_opt": "医者の不養生",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "用心を重ねて、物事を慎重に行うことのたとえ。",
 		"answer": "いしばしをたたいてわたる",
+		"answer_opt": "石橋をたたいて渡る",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "つらくて大変なことでも、辛抱して続ければいつかは成功する。",
 		"answer": "いしのうえにもさんねん",
+		"answer_opt": "石の上にも三年",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "やる前からあれこれと心配していた物事も、実際にやってみると、思っていたよりもたやすいものだということ。",
 		"answer": "あんずるよりうむがやすし",
+		"answer_opt": "案ずるより産むが易し",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "争いごとや悪いことが起こった後には、かえって物事がうまくいくこと。",
 		"answer": "あめふってじかたまる",
+		"answer_opt": "雨降って地固まる",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "二つの物を両方手に入れようとして、どちらも取り逃すこと。欲張りすぎて失敗すること。",
 		"answer": "あぶはちとらず",
+		"answer_opt": "虻蜂取らず",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "好きになると、相手の欠点までもが長所に見えてしまうということ。",
 		"answer": "あばたもえくぼ",
+		"answer_opt": "あばたもえくぼ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "目先の問題さえ片付けば、あとはどうなってもかまわない。なるようになれ、という無責任な態度。",
 		"answer": "あとはのとなれやまとなれ",
+		"answer_opt": "後は野となれ山となれ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "夏の暑さや冬の寒さは、彼岸の頃には和らいで、過ごしやすくなるということ。",
 		"answer": "あつささむさもひがんまで",
+		"answer_opt": "暑さ寒さも彼岸まで",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "ものごとを、二つの立場の両方を満足させられるようにするのは難しい、ということ。",
 		"answer": "あちらたてればこちらがたたぬ",
+		"answer_opt": "あちら立てればこちらが立たぬ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "占いは当たることも外れることもあるので、結果を気にしすぎてはいけないということ。",
 		"answer": "あたるもはっけあたらぬもはっけ",
+		"answer_opt": "当たるも八卦当たらぬも八卦",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "人の心配をするよりも、まずは自分のことをしっかりしなさい、ということ。人の世話を焼きたがる人などに使う。",
 		"answer": "あたまのうえのはえをおえ",
+		"answer_opt": "頭の上の蠅を追え",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "悪事や欠点をすべて隠し通したとおもっていても、実際にはその一部しか隠せていないことのたとえ。",
 		"answer": "あたまかくしてしりかくさず",
+		"answer_opt": "頭隠して尻隠さず",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "秋のなすは美味しくてもったいないから、 （または、体を冷やす効果があるから） 嫁に食べさせてはいけない。",
 		"answer": "あきなすはよめにくわすな",
+		"answer_opt": "秋茄子は嫁に食わすな",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "出会いの後には必ず別れがあるので、会うことは分かれることの始まりでもある。人生のむなしさを表した言葉。",
 		"answer": "あうはわかれのはじめ",
+		"answer_opt": "会うは別れの始め",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "怖い人やうるさく注意してくる人がいない間に、のんびりくつろぐこと。",
 		"answer": "おにのいぬまにせんたく",
+		"answer_opt": "鬼の居ぬ間に洗濯",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "もともと強い存在が、何かを得ることでさらに強力になることのたとえ。",
 		"answer": "おににかなぼう",
+		"answer_opt": "鬼に金棒",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "意見が分かれていて、なかなかまとまらない相談や会議。",
 		"answer": "おだわらひょうじょう",
+		"answer_opt": "小田原評定",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "思い上がってわがままに振る舞うものは、いつまでも栄えていることはできずに、勢力も衰えて滅びるということ。",
 		"answer": "おごるへいけはひさしからず",
+		"answer_opt": "驕る平家は久しからず",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "人に知られないところで他人のために努力や苦労をすること。また、そのような人。",
 		"answer": "えんのしたのちからもち",
+		"answer_opt": "縁の下の力持ち",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "少しの元手や努力で、大きな利益を得ることのたとえ。",
 		"answer": "えびでたいをつる",
+		"answer_opt": "海老で鯛を釣る",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "意外なところで、昔の恨みを晴らすことのたとえ。",
 		"answer": "えどのかたきをながさきでうつ",
+		"answer_opt": "江戸の敵を長崎で討つ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "誰かの噂をしていると、その本人が現れることがあるということ。",
 		"answer": "うわさをすればかげ",
+		"answer_opt": "噂をすれば影",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "平凡な親からは平凡な子供しか生まれないことのたとえ。",
 		"answer": "うりのつるになすびはならぬ",
+		"answer_opt": "瓜の蔓に茄子はならぬ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "人の意見や忠告を聞き流してしまい、何とも思わないことのたとえ。",
 		"answer": "うまのみみにねんぶつ",
+		"answer_opt": "馬の耳に念仏",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "カラスが鵜を真似て魚を捕ろうとしても、うまくいかない。身の程をわきまえず、人の真似をして失敗すること。",
 		"answer": "うのまねをするからす",
+		"answer_opt": "鵜の真似をする烏",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "物事を順調に進めるためには、時と場合によっては嘘をつくことも必要だということ。",
 		"answer": "うそもほうべん",
+		"answer_opt": "嘘も方便",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "平気でうそをつくようになると、やがては盗みも平気でするようになる。だから嘘はついてはいけないということ。",
 		"answer": "うそつきはどろぼうのはじまり",
+		"answer_opt": "嘘つきは泥棒の始まり",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "嘘で言ったはずのことが、たまたま実現してしまうこと。",
 		"answer": "うそからでたまこと",
+		"answer_opt": "嘘から出た誠",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "家柄の良さなどよりも育った環境のほうが、その人の人間性に大きく影響し、大切だということ。",
 		"answer": "うじよりそだち",
+		"answer_opt": "氏より育ち",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "思わぬ偶然や他人の誘いで、良い結果を得たり、良いほうへと導かれること。",
 		"answer": "うしにひかれてぜんこうじまいり",
+		"answer_opt": "牛にひかれて善光寺参り",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "相手が好意を示すのならば、自分もそれに応じて、好意をもって対応しよう、ということ。",
 		"answer": "うおごころあればみずごころ",
+		"answer_opt": "魚心あれば水心",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "口に出して言わない方が、味があるということ。また口に出すと差し障るので言わないほうがいい。",
 		"answer": "いわぬがはな",
+		"answer_opt": "言わぬが花",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "小さくて弱い者にも相応の意地があるのだから、どんな相手であってもあなどってはいけない、ということ。",
 		"answer": "いっすんのむしにもごぶのたましい",
+		"answer_opt": "一寸の虫にも五分の魂",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "将来のことは、ちょっとさきのことでも全くわからないということ。",
 		"answer": "いっすんさきはやみ",
+		"answer_opt": "一寸先は闇",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "つまらない、あるいは役に立たない物でも、無いよりはあったほうがましだということのたとえ。",
 		"answer": "かれきもやまのにぎわい",
+		"answer_opt": "枯れ木も山の賑わい",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "鴨が葱を背負ってきたら、すぐに鴨鍋ができるように、好都合が重なり、さらに都合がいいことのたとえ。",
 		"answer": "かもがねぎをしょってくる",
+		"answer_opt": "鴨が葱を背負ってくる",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "年長者が身に付けた長年の経験や豊富な知識は大事にするべきだということ。",
 		"answer": "かめのこうよりとしのこう",
+		"answer_opt": "亀の甲より年の功",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "運は人の力ではどうすることもできないので、焦らずに待っていた方が幸運はやってくるものだということ。",
 		"answer": "かほうはねてまて",
+		"answer_opt": "果報は寝て待て",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "隠し事はとにかく漏れやすいものだから、注意したほうがいいという戒め。",
 		"answer": "かべにみみありしょうじにめあり",
+		"answer_opt": "壁に耳あり障子に目あり",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "お金は人から人へと渡っていくので、今は貧しくてもいつかは回ってきたり、入ってきたお金は出ていく物だ。",
 		"answer": "かねはてんかのまわりもの",
+		"answer_opt": "金は天下の回りもの",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "最終的に勝ったほうが理屈抜きで正義となり、負けたほうがすべて悪いということになるのが世の常だということ。",
 		"answer": "かてばかんぐん",
+		"answer_opt": "勝てば官軍",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "何かの名人であっても、油断したりして、時には失敗するということ。",
 		"answer": "かっぱのかわながれ",
+		"answer_opt": "河童の川流れ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "たとえ物事が思い通りにうまくいっても、気を緩めてはいけないということ。",
 		"answer": "かってかぶとのおをしめよ",
+		"answer_opt": "勝って兜の緒を締めよ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "自分の利益にならないのに、あえて他人のために危険なことをするたとえ。",
 		"answer": "かちゅうのくりをひろう",
+		"answer_opt": "火中の栗を拾う",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "風邪を引くと体が弱り、他の病気にかかりやすくなるので、軽く見てはいけないということ。",
 		"answer": "かぜはまんびょうのもと",
+		"answer_opt": "風邪は万病の因",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "ある出来事が巡り巡って思わぬ結果を生じること。また、当てにならないことに期待をすること。",
 		"answer": "かぜがふけばおけやがもうかる",
+		"answer_opt": "風が吹けば桶屋が儲かる",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "どんな目にあっても、何も感じていないかのように平気でいる様子。",
 		"answer": "かえるのつらにみず",
+		"answer_opt": "蛙の面に水",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "平凡な親からは平凡な子どもしか生まれないということ。子どもの才能などは、結局は親に似るものだということ。",
 		"answer": "かえるのこはかえる",
+		"answer_opt": "蛙の子は蛙",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "親の子どもへの愛情を知らないで、子どもは好き勝手にふるまうものだということ。",
 		"answer": "おやのこころこしらず",
+		"answer_opt": "親の心子知らず",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "物事を始めようと決心したら、始める日を選ばずに、すぐに始めたほうが良いということ。",
 		"answer": "おもいたったがきちじつ",
+		"answer_opt": "思い立ったが吉日",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "非常に困ったり苦しんだりしている人が、頼りになりそうにないものにもすがろうとすることのたとえ。",
 		"answer": "おぼれるものはわらをもつかむ",
+		"answer_opt": "溺れる者は藁をもつかむ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "物事が中途半端で何にも使えず、役に立たないこと。",
 		"answer": "おびにみじかしたすきにながし",
+		"answer_opt": "帯に短したすきに長し",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "無慈悲で鬼のような人でも、時には同情したり、かわいそうに思ったりして涙をながすことのたとえ。",
 		"answer": "おにのめにもなみだ",
+		"answer_opt": "鬼の目にも涙",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "普段は丈夫で病気にかかりそうにない人が、珍しく病気にかかること。",
 		"answer": "おにのかくらん",
+		"answer_opt": "鬼の霍乱",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "優れた名人・達人は、道具のよしあしに関係なく立派な仕事をするものだということ。",
 		"answer": "こうぼうふでをえらばず",
+		"answer_opt": "弘法筆を選ばず",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "どんなに優れた人物でも、失敗することはあるというたとえ。",
 		"answer": "こうぼうにもふでのあやまり",
+		"answer_opt": "弘法にも筆の誤り",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "うまく世渡りするためには、その土地ごとの習慣に合わせて生活するのがよいということ。",
 		"answer": "ごうにいってはごうにしたがえ",
+		"answer_opt": "郷に入っては郷に従え",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "親のありがたみが解る頃には、すでに亡くなっているものだ。だから、親が元気なうちに孝行したほうが良い。",
 		"answer": "こうこうのしたいじぶんにおやはなし",
+		"answer_opt": "孝行のしたい時分に親は無し",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "すでにしてしまった失敗を後で後悔しても取り返しがつかない。だから後悔しないように注意しなさい。",
 		"answer": "こうかいさきにたたず",
+		"answer_opt": "後悔先に立たず",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "月日がたつのがとても速いことのたとえ。また、時間を無駄にしてはいけないという戒め。",
 		"answer": "こういんやのごとし",
+		"answer_opt": "光陰矢のごとし",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "喧嘩をしたものは、どちらが悪いかに関係なく、どちらも同じように罰を与えるべきだということ。",
 		"answer": "けんかりょうせいばい",
+		"answer_opt": "喧嘩両成敗",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "犬と猿のように、二者の仲がとても悪いことのたとえ。",
 		"answer": "けんえんのなか",
+		"answer_opt": "犬猿の仲",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "身につけた技能はいざと言うときに役立つことがある。",
 		"answer": "げいはみをたすける",
+		"answer_opt": "芸は身を助ける",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "立派な人は、常に慎重に行動して、軽はずみなことはしないものなので、危険なことには初めから近寄らない。",
 		"answer": "くんしあやうきにちかよらず",
+		"answer_opt": "君子危うきに近寄らず",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "信じていない神様や、あまり付き合いのない人などに、困った時だけ頼ろうとすること。",
 		"answer": "くるしいときのかみだのみ",
+		"answer_opt": "苦しい時の神頼み",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "自ら話したことが災いを招くこともあるので、余計な発言は慎んだ方が良い。",
 		"answer": "ぐちはわざわいのもと",
+		"answer_opt": "口は災いの元",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "価値あるものは多少条件が悪くなってもそれなりの価値はある。",
 		"answer": "くさってもたい",
+		"answer_opt": "腐っても鯛",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "物事の些細な事ばかり注意していると全体を見失うということ。",
 		"answer": "きをみてもりをみず",
+		"answer_opt": "木を見て森を見ず",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "うまくいくかはわからないことでも、思い切って決断を下すことのたとえ。",
 		"answer": "きよみずのぶたいからとびおりる",
+		"answer_opt": "清水の舞台から飛び降りる",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "まず助からないだろうという危険な状態から何とか助かること。",
 		"answer": "きゅうしにいっしょうをえる",
+		"answer_opt": "九死に一生を得る",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "鳴いたがために撃たれた雉のように、必要のないことをした結果、災難を招いてしまうこと。",
 		"answer": "きじもなかずばうたれまい",
+		"answer_opt": "雉も鳴かずば撃たれまい",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "知らないことを聞くことは、その時に恥をかくだけだが、知らないままだと一生恥ずかしい思いをすることになる。",
 		"answer": "きくはいっときのはじ、きかぬはいっしょうのはじ",
+		"answer_opt": "聞くは一時の恥、聞かぬは一生の恥",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "人から話に聞いたものを実際に見てみると、聞いていたことと大きく違っていること。",
 		"answer": "きいてごくらくみてじごく",
+		"answer_opt": "聞いて極楽見て地獄",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "甘やかして育てるよりも、世の中でつらくて苦しい体験をさせたほうが、愛する子どものためになるということ。",
 		"answer": "かわいいこにはたびをさせよ",
+		"answer_opt": "かわいい子には旅をさせよ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "前触れが大きい割に、大したことのない結果に終わること。",
 		"answer": "たいざんめいどうしてねずみいっぴき",
+		"answer_opt": "泰山鳴動して鼠一匹",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "些細なことも何らかの因縁によって結ばれているものだ。",
 		"answer": "そでふりあうもたしょうのえん",
+		"answer_opt": "袖振り合うも多生の縁",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "良いと思ったことは、ためらわずに急いでやるべきだ。",
 		"answer": "ぜんはいそげ",
+		"answer_opt": "善は急げ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "大人になって大成するような人は、子どもの時から並外れて優れているということ。",
 		"answer": "せんだんはふたばよりかんばし",
+		"answer_opt": "栴檀は双葉より芳し",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "焦って事に当たると失敗しやすい。",
 		"answer": "せいてはことをしそんじる",
+		"answer_opt": "急いては事を仕損じる",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "不便な場所でも長く住めば慣れて、良いと思えるようになるということ。",
 		"answer": "すめばみやこ",
+		"answer_opt": "住めば都",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "好きなことには自然とやる気がでてくるから、上手になるということ。",
 		"answer": "すきこそもののじょうずなれ",
+		"answer_opt": "好きこそものの上手なれ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "知ったら腹が立つようなことでも、知らないままでいれば平気でいられるということ。",
 		"answer": "しらぬがほとけ",
+		"answer_opt": "知らぬが仏",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "物事に慣れて怠けたりすることのないように、それを始めたときの心構えや決心は忘れずにいるべきだということ。",
 		"answer": "しょしんわするべからず",
+		"answer_opt": "初心忘るべからず",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "人は付き合う友人や周りの環境によって、良くも悪くもなるものだということ。",
 		"answer": "しゅにまじわればあかくなる",
+		"answer_opt": "朱に交われば赤くなる",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "失敗したとしても、反省して、失敗の原因を改善すれば、成功へとつながる。やがては成功するものだということ。",
 		"answer": "しっぱいはせいこうのもと",
+		"answer_opt": "失敗は成功の基",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "どんなに親しい仲でも、遠慮がなくなると喧嘩の原因になるから、それなりの礼儀を守って付き合うべきだ。",
 		"answer": "したしきなかにもれいぎあり",
+		"answer_opt": "親しき仲にも礼儀あり",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "世の中は、お金さえあればなんでも自由にできるということ。",
 		"answer": "じごくのさたもかねしだい",
+		"answer_opt": "地獄の沙汰も金次第",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "一人ではよい考えが浮かばない凡人でも、三人集まって考えれば、すばらしい知恵が浮かんでくるということ。",
 		"answer": "さんにんよればもんじゅのちえ",
+		"answer_opt": "三人寄れば文殊の知恵",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "体は小さくても、意志が強くて才能もあり、あなどることができない者のたとえ。",
 		"answer": "さんしょうはこつぶでもぴりりとからい",
+		"answer_opt": "山椒は小粒でもぴりりと辛い",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "余計な災難にあわないために、余計なことには手出ししない方がいい。",
 		"answer": "さわらぬかみにたたりなし",
+		"answer_opt": "触らぬ神に祟りなし",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "どんなに優れた人物でも、失敗することはあるというたとえ。",
 		"answer": "さるもきからおちる",
+		"answer_opt": "猿も木から落ちる",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "人より先に行動すれば、有利になって相手を制することができるということ。",
 		"answer": "さきんずればひとをせいす",
+		"answer_opt": "先んずれば人を制す",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "失敗しないように、あらかじめ十分に用心しておくこと。また、そのような用心が大切だというたとえ。",
 		"answer": "ころばぬさきのつえ",
+		"answer_opt": "転ばぬ先の杖",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "自分の技能は他人にばかり使っていて、自分の事には使われていないことのたとえ。",
 		"answer": "こうやのしろばかま",
+		"answer_opt": "紺屋の白袴",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "身近なことほど案外気づきにくいものだ。",
 		"answer": "とうだいもとくらし",
+		"answer_opt": "灯台下暗し",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "天は一人の人間に、たくさんの長所や才能を与えることはないということ。",
 		"answer": "てんはにぶつをあたえず",
+		"answer_opt": "天は二物を与えず",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "才能があって抜きんでている人や、でしゃばっている人は、嫉妬されたり、憎まれたりするということ。",
 		"answer": "でるくいはうたれる",
+		"answer_opt": "出る杭は打たれる",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "①考え方の柔軟な若いうちに鍛えておいた方が良い。 ②情熱を持って事に当たれる時期を逃してはいけない。",
 		"answer": "てつはあついうちにうて",
+		"answer_opt": "鉄は熱いうちに打て",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "本当の目的が全く別のところにあることのたとえ。",
 		"answer": "てきはほんのうじにあり",
+		"answer_opt": "敵は本能寺にあり",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "寿命が長くて、めでたいことのたとえ。",
 		"answer": "つるはせんねん、かめはまんねん",
+		"answer_opt": "鶴は千年、亀は万年",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "少しの欠点を直そうとしてやりすぎてしまい、かえって全体をだめにしてしまうこと。",
 		"answer": "つのをためてうしをころす",
+		"answer_opt": "角を矯めて牛を殺す",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "二つの物が、形は似ていても、比べられないくらいに差があることのたとえ。",
 		"answer": "つきとすっぽん",
+		"answer_opt": "月とすっぽん",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "うまく話すことも重要だが、それ以上に沈黙していることの方が価値があることもある。",
 		"answer": "ちんもくはきん、ゆうべんはぎん",
+		"answer_opt": "沈黙は金、雄弁は銀",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "小さなことも継続すれば膨大なものとなる。だから小さなこともおろそかにするべきではない。",
 		"answer": "ちりもつもればやまとなる",
+		"answer_opt": "塵も積もれば山となる",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "形は似ているが実際は違いすぎて比較にならないこと。つり合いがとれないこと。",
 		"answer": "ぢょうちんにつりがね",
+		"answer_opt": "提灯に釣り鐘",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "短気を起こすと、いらいらしたり、他人と衝突したりして、損をすることになる。",
 		"answer": "たんきはそんき",
+		"answer_opt": "短気は損気",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "才能や素質があっても努力なくして真価を発揮することはできない。",
 		"answer": "たまみがかざればひかりなし",
+		"answer_opt": "玉磨かざれば光なし",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "一人で旅するよりも同行者がいたほうが心強いように、世の中でも互いに助け合い生きることが大切だということ。",
 		"answer": "たびはみちづれよはなさけ",
+		"answer_opt": "旅は道連れ世は情け",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "旅先には自分を知る者もいないので、恥ずかしい行いも平気でしてしまう。",
 		"answer": "たびのはじはかきすて",
+		"answer_opt": "旅の恥はかき捨て",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "予想もしていなかった幸運が舞い込むことのたとえ。",
 		"answer": "たなからぼたもち",
+		"answer_opt": "棚からぼた餅",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "辛い蓼を好む虫もいるように、人の好き嫌いはさまざまだということ。",
 		"answer": "たでくうむしもすきずき",
+		"answer_opt": "蓼食う虫も好き好き",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "立ち去るときの後始末は、見苦しくないようにきちんとするべきだということ。",
 		"answer": "たつとりあとをにごさず",
+		"answer_opt": "立つ鳥跡を濁さず",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "急ぎの用事があるときには、たとえ親であったとしても、そばで立っている人に頼むべきだ。",
 		"answer": "たっているものはおやでもつかえ",
+		"answer_opt": "立っているものは親でも使え",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "ただで物をもらうと、お礼にお金がかかったり、その人に頼みごとをされたりと、かえって高くつくということ。",
 		"answer": "ただよりたかいものはない",
+		"answer_opt": "ただより高いものはない",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "物事は、人や本から教わるよりも、体験として実際に経験した方が身につく。",
 		"answer": "ならうよりなれろ",
+		"answer_opt": "習うより慣れろ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "中途半端な知識・技術はかえって失敗のもとである。",
 		"answer": "なまびょうほうはおおけがのもと",
+		"answer_opt": "生兵法は大怪我の元",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "普段怠けている者ほど他人が休んでいるときに限って忙しそうにするものだ。",
 		"answer": "なまけもののせっくばたらき",
+		"answer_opt": "怠け者の節句働き",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "何回失敗してもくじけずに、勇気を出して立ち上がること。",
 		"answer": "ななころびやおき",
+		"answer_opt": "七転び八起き",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "人に親切にすると、巡り巡って自分にいい報いがかえってくるので、自分のためにもなるということ。",
 		"answer": "なさけはひとのためならず",
+		"answer_opt": "情けは人のためならず",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "どんな人でも、多かれ少なかれ、何か癖をもっているということ。",
 		"answer": "なくてななくせ",
+		"answer_opt": "なくて七癖",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "理屈の通じない者や権力者などには、いくらこちらが正しくても勝てないから、従うしかないということ。",
 		"answer": "なくことじとうにはかてぬ",
+		"answer_opt": "泣く子と地頭には勝てぬ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "不運なことの上に、さらに不運なことが続けて起こること。",
 		"answer": "なきっつらにはち",
+		"answer_opt": "泣きっ面に蜂",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "権力のある人や目上の人には、逆らうよりも従ったほうが得だということ。",
 		"answer": "ながいものにはまかれろ",
+		"answer_opt": "長いものには巻かれろ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "大切なもの、または自分のものになると思ったものを、いきなり横からうばわれること。",
 		"answer": "とびにあぶらあげをさらわれる",
+		"answer_opt": "鳶に油揚げをさらわれる",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "平凡な親が、才能のある優れた子どもを産むことのたとえ。",
 		"answer": "とびがたかをうむ",
+		"answer_opt": "鳶が鷹を生む",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "自分から進んで危険を冒し、災難を招くこと。",
 		"answer": "とんでひにいるなつのむし",
+		"answer_opt": "飛んで火にいる夏の虫",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "どれも似たようなものばかりで、大した違いがないこと。",
 		"answer": "どんぐりのせいくらべ",
+		"answer_opt": "どんぐりの背比べ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "まだ決まっていないことを当てにして、計画を立てたり、利益を考えたりすること。",
 		"answer": "とらぬたぬきのかわざんよう",
+		"answer_opt": "取らぬ狸の皮算用",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "他人の物は自分のものよりもよく見えて、うらやましく思う。",
 		"answer": "となりのはなはあかい",
+		"answer_opt": "隣の花は赤い",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "年寄りが、年齢に合わない無理や無茶をすることのたとえ。",
 		"answer": "としよりのひやみず",
+		"answer_opt": "年寄りの冷や水",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "その土地によって言葉や習慣は違うものだということ。",
 		"answer": "ところかわればしなかわる",
+		"answer_opt": "所変われば品変わる",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "時間はお金と同じように貴重なものだから、無駄に使ってはいけない。",
 		"answer": "ときはかねなり",
+		"answer_opt": "時は金なり",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "いざというとき頼りになるのは、遠くにいる親戚ではなく、日ごろ付き合いのある近所の他人だということ。",
 		"answer": "とおいしんせきよりちかくのたにん",
+		"answer_opt": "遠い親戚より近くの他人",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "何の効果も反応もないことのたとえ。",
 		"answer": "とうふにかすがい",
+		"answer_opt": "豆腐にかすがい",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "人の本当の性格や実力は、外から見ただけではわからないということ。",
 		"answer": "ひとはみかけによらぬもの",
+		"answer_opt": "人は見かけによらぬもの",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "他人の行いを見て自分の行いを反省し、悪いところはなおしなさいということ。",
 		"answer": "ひとのふりみてわがふりなおせ",
+		"answer_opt": "人のふり見てわがふり直せ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "世間でうわさ話が広がることを防ぐことはできないということ。",
 		"answer": "ひとのくちにはとがたてられない",
+		"answer_opt": "人の口には戸が立てられない",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "世間は忘れやすくどんな噂も長続きはしない。",
 		"answer": "ひとのうわさもしちじゅうごにち",
+		"answer_opt": "人のうわさも七十五日",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "必要なものを作ろうと工夫することから、発明が生まれるということ。",
 		"answer": "ひつようははつめいのはは",
+		"answer_opt": "必要は発明の母",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "食事を食べ過ぎずに控えめにしておけば、健康を保てるということ。",
 		"answer": "はらはちぶんめにいしゃいらず",
+		"answer_opt": "腹八分目に医者いらず",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "早起きをすると、健康に良かったり、仕事がはかどったりと、なにかとよいことがある。",
 		"answer": "はやおきはさんもんのとく",
+		"answer_opt": "早起きは三文の徳",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "風流を楽しむより実益を取る方が良いというたとえ。見かけよりも実質を取ること。",
 		"answer": "はなよりだんご",
+		"answer_opt": "花より団子",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "少しも手ごたえがないこと。",
 		"answer": "のれんにうでおし",
+		"answer_opt": "暖簾に腕押し",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "苦しく辛い出来事も、過ぎ去ってしまえばその苦しさを忘れてしまう。",
 		"answer": "のどもとすぎればあつさをわすれる",
+		"answer_opt": "喉元過ぎれば熱さを忘れる",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "実力や才能のある者ほど、それをむやみに見せびらかそうとはしない。",
 		"answer": "のうあるたかはつめをかくす",
+		"answer_opt": "能ある鷹は爪を隠す",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "価値のわからない者に貴重な品を与えても、何の役にも立たないことのたとえ。",
 		"answer": "ねこにこばん",
+		"answer_opt": "猫に小判",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "油断できない状況。危険な状態。 ",
 		"answer": "ねこにかつおぶし",
+		"answer_opt": "猫に鰹節",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "ほとんど苦労もせずに大もうけすることのたとえ。",
 		"answer": "ぬれてであわ",
+		"answer_opt": "濡れ手で粟",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "手ごたえがなく効果もないこと。",
 		"answer": "ぬかにくぎ",
+		"answer_opt": "糠に釘",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "欲張って一度に二つのことをしようとしても、結局どちらもうまくいかないということ。",
 		"answer": "にとをおうものはいっとをもえず",
+		"answer_opt": "二兎を追うものは一兎をも得ず",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "時には、戦わずに逃げる方が、結果的に得になるということ。",
 		"answer": "にげるがかち",
+		"answer_opt": "逃げるが勝ち",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "人から嫌われるような人に限って、世間では幅を利かせているものだ。",
 		"answer": "にくまれっこよにはばかる",
+		"answer_opt": "憎まれっ子世にはばかる",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "もう少しで手に入る、というところで逃がしたものは、実際よりも立派だったように思えるということ。",
 		"answer": "にがしたさかなはおおきい",
+		"answer_opt": "逃がした魚は大きい",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "思うようにならなくてもどかしいこと。全く、効き目のないこと。",
 		"answer": "にかいからめぐすり",
+		"answer_opt": "二階から目薬",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "争わず、あえて勝ちを譲ることで、一時的には負けていても、結果的に有利になり、勝ちにつながるということ。",
 		"answer": "まけるがかち",
+		"answer_opt": "負けるが勝ち",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "結果があるからには必ず原因がある。努力なくしてよい結果は出ないということ。",
 		"answer": "まかぬたねははえぬ",
+		"answer_opt": "まかぬ種は生えぬ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "苦労したのに成果が出ず、徒労に終わってしまうこと。",
 		"answer": "ほねおりぞんのくたびれもうけ",
+		"answer_opt": "骨折り損のくたびれもうけ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "どんなに温厚な人でも、何回もひどいことをされると、最後には怒りだすということ。",
 		"answer": "ほとけのかおもさんど",
+		"answer_opt": "仏の顔も三度",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "苦労して完成させた物事に、一番大事なところが抜けていて、役に立たないこと。",
 		"answer": "ほとけつくってたましいいれず",
+		"answer_opt": "仏作って魂入れず",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "優れた文章は世の人々を動かし、武力よりも強い力を持つということ。",
 		"answer": "ペンはけんよりもつよし",
+		"answer_opt": "ペンは剣よりも強し",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "強敵や苦手なものなどの前で、恐ろしさから身がすくみ、動けない様子。",
 		"answer": "へびににらまれたかえる",
+		"answer_opt": "蛇ににらまれた蛙",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "下手なくせに、そのことをするのが好きで熱中すること。",
 		"answer": "へたのよこずき",
+		"answer_opt": "下手の横好き",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "良い考えが浮かばないのに長い時間考えるのは、時間の無駄だということ。",
 		"answer": "へたのかんがえやすむににたり",
+		"answer_opt": "下手の考え休むに似たり",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "何度もあれこれ試してみれば、偶然うまくいくこともあるということ。",
 		"answer": "へたなてっぽうもかずうちゃあたる",
+		"answer_opt": "下手な鉄砲も数撃ちゃ当たる",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "価値のわからない人に貴重な品を与えても、何の役にも立たないことのたとえ。",
 		"answer": "ぶたにしんじゅ",
+		"answer_opt": "豚に真珠",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "準備を整えて、さかんに誘っているのに、誰もそれに応じようとしないことのたとえ。",
 		"answer": "ふえふけどもおどらず",
+		"answer_opt": "笛吹けども踊らず",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "夫婦喧嘩の原因は些細なことであったり、一時的なものだから、他人が心配する必要はないということ。",
 		"answer": "ふうふげんかはいぬもくわない",
+		"answer_opt": "夫婦喧嘩は犬も食わない",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "貧乏な人は生活に追われ、暇がないということ。",
 		"answer": "びんぼうひまなし",
+		"answer_opt": "貧乏暇なし",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "貧しくなると頭も鈍くなる。",
 		"answer": "ひんすればどんする",
+		"answer_opt": "貧すれば鈍する",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "思いがけないところから意外なものが出る。冗談が現実となる。",
 		"answer": "ひょうたんからこまがでる",
+		"answer_opt": "ひょうたんから駒が出る",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "害になることばかりあって、利益になるような良いことが何もないこと。",
 		"answer": "ひゃくがいあっていちりなし",
+		"answer_opt": "百害あって一利なし",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "噂をされるからには、必ず何かの原因、事実があるだろうということ。",
 		"answer": "ひのないところにけむりはたたぬ",
+		"answer_opt": "火のない所に煙は立たぬ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "他人を簡単に信用してはいけない。まずは用心しろということ。",
 		"answer": "ひとをみたらどろぼうとおもえ",
+		"answer_opt": "人を見たら泥棒と思え",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "他人に害を与えようとすれば、やがて自分もその報いをうけるということ。",
 		"answer": "ひとをのろわばあなふたつ",
+		"answer_opt": "人を呪わば穴二つ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "痩せているくせによく食べる人のこと。また、痩せている人には、案外大食いな人が多いということ。",
 		"answer": "やせのおおぐい",
+		"answer_opt": "痩せの大食い",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "安物は品質の悪いものや使いにくいものが多く、すぐだめになるので、結局は損をしてしまうということ。",
 		"answer": "やすものかいのぜにうしない",
+		"answer_opt": "安物買いの銭失い",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "常日頃接していることは自然と身につくものだ。",
 		"answer": "もんぜんのこぞうならわぬきょうをよむ",
+		"answer_opt": "門前の小僧習わぬ経を読む",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "物事を成し遂げるまでには時間がかかるものだということ。",
 		"answer": "ももくりさんねんかきはちねん",
+		"answer_opt": "桃栗三年柿八年",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "余計な発言で災いを招く。人の悪口を言うと、何となく後味の悪い気持ちになる。",
 		"answer": "ものいえばくちびるさむしあきのかぜ",
+		"answer_opt": "物言えば唇寒し秋の風",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "努力や苦労が無駄になってしまうこと。",
 		"answer": "もとのもくあみ",
+		"answer_opt": "元の木阿弥",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "物事は専門家に任せるのが一番である。",
 		"answer": "もちはもちや",
+		"answer_opt": "餅は餅屋",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "感情のこもった目つきは、言葉に出すのと同じくらい気持ちを表すものだ。",
 		"answer": "めはくちほどにものをいう",
+		"answer_opt": "目は口ほどにものを言う",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "自分よりも立場が上で、何かとじゃまで目障りな人のたとえ。",
 		"answer": "めのうえのこぶ",
+		"answer_opt": "目の上のこぶ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "自分も似たような欠点をもっていることに気づかずに、他人の欠点を笑うことのたとえ。",
 		"answer": "めくそはなくそをわらう",
+		"answer_opt": "目くそ鼻くそを笑う",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "理屈に反したことが世の中で通用するようになれば、逆に理屈の通った正義は行われなくなるということ。",
 		"answer": "むりがとおればどうりひっこむ",
+		"answer_opt": "無理が通れば道理引っ込む",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "昔身に付けた技量のこと。また、それが年を取ってからも衰えないこと。",
 		"answer": "むかしとったきねづか",
+		"answer_opt": "昔取った杵柄",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "捨て身の覚悟で物事にあたって、はじめて成し遂げることができるということ。",
 		"answer": "みをすててこそうかぶせもあれ",
+		"answer_opt": "身を捨ててこそ浮かぶ瀬もあれ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "心の狭い人ほど偉そうにふるまい、優れた人物はむしろ控えめで、素直な態度でいること。",
 		"answer": "みのるほどあたまのさがるいなほかな",
+		"answer_opt": "実るほど頭の下がる稲穂かな",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "幼いころの性格は、一生変わらないということ。",
 		"answer": "みつごのたましいひゃくまで",
+		"answer_opt": "三つ子の魂百まで",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "自分に都合の悪いことや他人の欠点は、見ないふり、聞かないふりをして、余計なことは言わないようにすること。",
 		"answer": "みざるきかざるいわざる",
+		"answer_opt": "見ざる聞かざる言わざる",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "自分がしたことが原因で災難にあうこと。",
 		"answer": "みからでたさび",
+		"answer_opt": "身から出たさび",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "相手を説得しようとしたのにいつの間にか相手に同調してしまう。",
 		"answer": "ミイラとりがミイラになる",
+		"answer_opt": "ミイラ取りがミイラになる",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "言い方ややり方次第で、物事がうまくいくこともあれば、喧嘩になってしまうこともあるということ。",
 		"answer": "まるいたまごもきりようでしかく",
+		"answer_opt": "丸い卵も切りようで四角",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "悪い状況でも、あせらずに待っていれば、そのうち良いことがあるということ。",
 		"answer": "まてばかいろのひよりあり",
+		"answer_opt": "待てば海路の日和あり",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "他の人と仲よくやっていくことが、何よりも大切だということ。",
 		"answer": "わをもってとうとしとなす",
+		"answer_opt": "和をもって貴しとなす",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "どんな人にも、その人にぴったり合う相手がいるということ。また、そのような人と一緒になればうまくいく。",
 		"answer": "われなべにとじぶた",
+		"answer_opt": "破れ鍋に綴じ蓋",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "笑いが絶えない家は、自然と幸せが訪れる。また、どんなに辛い時もくじけずに笑っていれば、幸せがやってくる。",
 		"answer": "わらうかどにはふくきたる",
+		"answer_opt": "笑う門には福来る",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "世間には、思いやりのない冷たい人だけでなく、困った時に助けてくれる親切な人もいるということ。",
 		"answer": "わたるせけんにおにはない",
+		"answer_opt": "渡る世間に鬼はない",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "若い時に苦労しておくと、その経験が後で役に立つ。だから若い時には進んで苦労したほうがいいということ。",
 		"answer": "わかいときのくろうはかってでもせよ",
+		"answer_opt": "若い時の苦労は買ってでもせよ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "議論するよりも証拠を示したほうが、物事をすっきり解決することができる。",
 		"answer": "ろんよりしょうこ",
+		"answer_opt": "論より証拠",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "書物をよく読んでいても、本質を理解していない。また、書物から得た知識があっても、実行が伴わない。",
 		"answer": "ろんごよみのろんごしらず",
+		"answer_opt": "論語読みの論語知らず",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "長い時間と労力をかけて初めて、大きなことを成し遂げることができるということ。",
 		"answer": "ローマはいちにちにしてならず",
+		"answer_opt": "ローマは一日にしてならず",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "苦労が多いわりに効果が少なくて、報われないこと。",
 		"answer": "ろうおおくしてこうすくなし",
+		"answer_opt": "労多くして功少なし",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "才能や素質のある人は、どこにいても目立つということ。",
 		"answer": "るりもはりもてらせばひかる",
+		"answer_opt": "瑠璃も玻璃も照らせば光る",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "気の合う人や似ている人は、自然に集まって仲間になるものだということ。",
 		"answer": "るいはともをよぶ",
+		"answer_opt": "類は友を呼ぶ",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "楽をしていると後で苦労することになり、逆に、苦労をしておくと後で楽ができるということ。",
 		"answer": "らくはくのたね、くはらくのたね",
+		"answer_opt": "楽は苦の種、苦は楽の種",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "世の中は楽しいことばかりではないので、楽しいことの後には、必ず苦しいことが来るということ。",
 		"answer": "らくあればくあり",
+		"answer_opt": "楽あれば苦あり",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "将来のことはわからないので、あれこれ言っても仕方ないというたとえ。",
 		"answer": "らいねんのことをいえばおにがわらう",
+		"answer_opt": "来年のことを言えば鬼が笑う",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "不運なことや災難が、何度も重なって起こることのたとえ。",
 		"answer": "よわりめにたたりめ",
+		"answer_opt": "弱り目に祟り目",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "頼りにする相手を選ぶときには、できるだけ力のある人を選んだ方がいいということ。",
 		"answer": "よらばたいじゅのかげ",
+		"answer_opt": "寄らば大樹の陰",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "自分の狭い知識や経験だけで、広い世界や大きな問題についてを判断しようとすること。",
 		"answer": "よしのずいからてんじょうをのぞく",
+		"answer_opt": "よしの髄から天井をのぞく",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "病気は気持ち次第で、良くも悪くもなるということ。",
 		"answer": "やまいはきから",
+		"answer_opt": "病は気から",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "余計なことをして、かえって損をしたり、災難にあったりすること。",
 		"answer": "やぶをつついてへびをだす",
+		"answer_opt": "藪をつついて蛇を出す",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "偶然うまくいった時と同じやり方をしても、いつもうまくいくとは限らないということ。",
 		"answer": "やなぎのしたにいつもどじょうはいない",
+		"answer_opt": "柳の下にいつもどじょうはいない",
 		"category": 3,
 		"type": 1
 		},
 		{
 		"question": "物が散らかり、足をおろすすき間もない。",
 		"answer": "あしのふみばもない",
+		"answer_opt": "足の踏み場もない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "あてもなく気の向くままに歩く。足の力の続く限り歩く。",
 		"answer": "あしにまかせる",
+		"answer_opt": "足に任せる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "長時間歩いたり立っていたりして、疲れて足がこわばる。",
 		"answer": "あしがぼうになる",
+		"answer_opt": "足が棒になる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "出費が収入を超え、赤字になる。隠し事がばれる。",
 		"answer": "あしがでる",
+		"answer_opt": "足が出る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "犯人や逃亡者の身元や行方がわかる。悪事がばれる。",
 		"answer": "あしがつく",
+		"answer_opt": "足が付く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "なにかに心を奪われ、興奮や緊張で、そわそわし、考えや行動がしっかりしない。",
 		"answer": "あしがちにつかない",
+		"answer_opt": "足が地に着かない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "疲れ切ってしまい、どうにもならない。",
 		"answer": "あごをだす",
+		"answer_opt": "顎を出す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "高慢な態度で人を指図する。",
 		"answer": "あごでつかう",
+		"answer_opt": "顎で使う",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "収入がなくなり、生活に困る。",
 		"answer": "あごがひあがる",
+		"answer_opt": "顎が干上がる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "最終的に。最後には。いろいろした結果。",
 		"answer": "あげくのはて",
+		"answer_opt": "挙句の果て",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "人の小さなミスを目敏く見つけ、必要以上に相手を責める。",
 		"answer": "あげあしをとる",
+		"answer_opt": "揚げ足を取る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自分の地位や権力に甘えて努力をしない。",
 		"answer": "あぐらをかく",
+		"answer_opt": "胡坐をかく",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "全く関わりのない完全な他人。",
 		"answer": "あかのたにん",
+		"answer_opt": "赤の他人",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "簡単に相手を負かしたり、物事をこなすことができる。",
 		"answer": "あかごのてをひねる",
+		"answer_opt": "赤子の手をひねる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "すっかり元気がなくなって、しょげてしまう。",
 		"answer": "あおなにしお",
+		"answer_opt": "青菜に塩",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "二人以上の人が何かしている時、微妙な調子や気持ちが、お互いに一致する。",
 		"answer": "あうんのこきゅう",
+		"answer_opt": "阿吽の呼吸",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "人の話や歌などの間に、かけ声などの言葉や動作を差し込み盛り上げる。",
 		"answer": "あいのてをいれる",
+		"answer_opt": "合いの手を入れる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手の話にうなずいて、調子を合わせる。",
 		"answer": "あいづちをうつ",
+		"answer_opt": "相槌を打つ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手の行動や態度等の様子に驚き、あきれ返ってものが言えない。",
 		"answer": "あいたくちがふさがらない",
+		"answer_opt": "開いた口が塞がらない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "あきれて好意や愛情をすっかりなくし、関わり合いになりたくないと思う。",
 		"answer": "あいそをつかす",
+		"answer_opt": "愛想を尽かす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "予想できない出来事に出会って、驚きあきれる。",
 		"answer": "あっけにとられる",
+		"answer_opt": "呆気に取られる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "はっきりと意識していない考えや疑問が浮かび上がる。力や勢力を得て台頭する。",
 		"answer": "あたまをもたげる",
+		"answer_opt": "頭をもたげる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "興奮した気持ちを落ち着かせ、冷静になる。",
 		"answer": "あたまをひやす",
+		"answer_opt": "頭を冷やす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "悩み事、心配事などに考えがまとまらず、困り果てる。",
 		"answer": "あたまをかかえる",
+		"answer_opt": "頭を抱える",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "心から尊敬、敬服する。",
 		"answer": "あたまがさがる",
+		"answer_opt": "頭が下がる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物事をすばやく正確に判断できる。",
 		"answer": "あたまがきれる",
+		"answer_opt": "頭が切れる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "一つの考えにこだわり、融通が利かない。",
 		"answer": "あたまがかたい",
+		"answer_opt": "頭が固い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "心配事や問題に対し、苦しみ悩んでいる。",
 		"answer": "あたまがいたい",
+		"answer_opt": "頭が痛い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "引け目を感じて、相手と対等な関係にたつことができない。",
 		"answer": "あたまがあがらない",
+		"answer_opt": "頭が上がらない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "尊敬する人や恩義を受けた人に対し、その気持ちをわすれない。",
 		"answer": "あしをむけてねられない",
+		"answer_opt": "足を向けて寝られない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "他人の成功や進歩に不利になるような行動をとる。",
 		"answer": "あしをひっぱる",
+		"answer_opt": "足を引っ張る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "わざわざ出向く。",
 		"answer": "あしをはこぶ",
+		"answer_opt": "足を運ぶ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手のすきをつき、失敗させる。",
 		"answer": "あしをすくう",
+		"answer_opt": "足をすくう",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "一度、うまくいった事を忘れられず、次も同様に期待する。",
 		"answer": "あじをしめる",
+		"answer_opt": "味を占める",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "災害や事故、ストライキなどによって、交通機関が利用できなくなってしまう。",
 		"answer": "あしをうばわれる",
+		"answer_opt": "足を奪われる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "悪事をやめ、正しい生活に戻る。仕事をやめる。",
 		"answer": "あしをあらう",
+		"answer_opt": "足を洗う",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自分が有利になるように、相手の弱みに付け込む。",
 		"answer": "あしもとをみる",
+		"answer_opt": "足元を見る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "身近に危険が迫っている。",
 		"answer": "あしもとにひがつく",
+		"answer_opt": "足元に火がつく",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "身近に意外な事が起こる。急に慌てて行動を始める。",
 		"answer": "あしもとからとりがたつ",
+		"answer_opt": "足元から鳥が立つ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "おもしろ味に欠けて、つまらない。",
 		"answer": "あじもそっけもない",
+		"answer_opt": "味も素っ気もない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "息を抑えて緊張する。",
 		"answer": "いきをこらす",
+		"answer_opt": "息を凝らす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "一つのことが長期にわたって持続している。",
 		"answer": "いきがながい",
+		"answer_opt": "息が長い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "緊張で息苦しくなる。",
 		"answer": "いきがつまる",
+		"answer_opt": "息が詰まる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "ある事のついでに、他のことをして利益を得る。",
 		"answer": "いきがけのだちん",
+		"answer_opt": "行きがけの駄賃",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "激しく運動し、呼吸がしにくい。息が続かない。物事を持続できなくなり、途中でやめる。",
 		"answer": "いきがきれる",
+		"answer_opt": "息が切れる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "互いの気持ちや調子がぴったり合う。",
 		"answer": "いきがあう",
+		"answer_opt": "息が合う",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物事を素早く行い、他人を出し抜き利益を得るさま。",
 		"answer": "いきうまのめをぬく",
+		"answer_opt": "生き馬の目を抜く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "思っていた通り、予想した通りに事が運ぶ。",
 		"answer": "あんのじょう",
+		"answer_opt": "案の定",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "ひどく驚き慌てる。",
 		"answer": "あわをくう",
+		"answer_opt": "泡を食う",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "申し訳ない気持ちから、相手に会いに行くことができない。",
 		"answer": "あわせるかおがない",
+		"answer_opt": "合わせる顔がない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "何事にもわざと人に逆らうひねくれ者。",
 		"answer": "あまのじゃく",
+		"answer_opt": "天の邪鬼",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自分では、苦労せず、利益を得る。",
 		"answer": "あまいしるをすう",
+		"answer_opt": "甘い汁を吸う",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "過ちや失敗をひどく責め、きびしくしかる。",
 		"answer": "あぶらをしぼる",
+		"answer_opt": "油を絞る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "仕事中に無駄話をして怠ける。",
 		"answer": "あぶらをうる",
+		"answer_opt": "油を売る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "調子が良くなり、仕事や勉強がはかどる。",
 		"answer": "あぶらがのる",
+		"answer_opt": "脂が乗る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "承知した上で危険な手段をとる。",
 		"answer": "あぶないはしをわたる",
+		"answer_opt": "危ない橋を渡る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物事が終わっても、余波が続いて影響が残る。",
 		"answer": "あとをひく",
+		"answer_opt": "後を引く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "時期に間に合わず、手遅れ。",
 		"answer": "あとのまつり",
+		"answer_opt": "後の祭り",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "受けた恩を返すどころか、更に迷惑や損害を与えて去り、裏切る。",
 		"answer": "あとあしですなをかける",
+		"answer_opt": "後足で砂をかける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物事が済んだ後でも、すっきりせずに気分が悪い。",
 		"answer": "あとあじがわるい",
+		"answer_opt": "後味が悪い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手の攻撃に反撃し、少しでも仕返しをする。",
 		"answer": "いっしむくいる",
+		"answer_opt": "一矢報いる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "わずかな乱れもなく整然としている。",
 		"answer": "いっしみだれず",
+		"answer_opt": "一糸乱れず",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "わずかな時間もなく、余裕がない。",
 		"answer": "いっこくをあらそう",
+		"answer_opt": "一刻を争う",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "誰の援助や指図も受けず、自立した人物。",
 		"answer": "いっこくいちじょうのあるじ",
+		"answer_opt": "一国一城の主",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "すべてが終わる。もはや手遅れである。死んでしまう。",
 		"answer": "いっかんのおわり",
+		"answer_opt": "一巻の終わり",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "何か言うまでもなく。異議なく。即座に。",
 		"answer": "いちもにもなく",
+		"answer_opt": "一も二もなく",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "何から何まで。すべて。最初から最後まで。",
 		"answer": "いちからじゅうまで",
+		"answer_opt": "一から十まで",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "結果はわからないが、運を天に任せてやってみる。",
 		"answer": "いちかばちか",
+		"answer_opt": "一か八か",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "すべてに細かく心配りがなされ、申し分ない。",
 		"answer": "いたれりつくせり",
+		"answer_opt": "至れり尽くせり",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "経験を重ね、態度や物腰が、役割にしっくり合う。",
 		"answer": "いたにつく",
+		"answer_opt": "板につく",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "同じことを何度も繰り返し、解決しない。",
 		"answer": "いたちごっこ",
+		"answer_opt": "鼬ごっこ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "二つの方法のどちらをとっても不都合が生じてしまうため、どちらにしたらよいか迷う。",
 		"answer": "いたしかゆし",
+		"answer_opt": "痛し痒し",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "何もやましい事はないにも関わらず、あれこれと疑いをかけられること。",
 		"answer": "いたくもないはらをさぐられる",
+		"answer_opt": "痛くもない腹を探られる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "全く苦痛がない。何の影響もない。",
 		"answer": "いたくもかゆくもない",
+		"answer_opt": "痛くも痒くもない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "どんなに苦労しようとも。何としても。",
 		"answer": "いしにかじりついても",
+		"answer_opt": "石にかじりついても",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "だめになる寸前の物事が立ち直る。生き返る。",
 		"answer": "いきをふきかえす",
+		"answer_opt": "息を吹き返す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "運動や興奮で、呼吸が荒くなる。",
 		"answer": "いきをはずませる",
+		"answer_opt": "息を弾ませる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "驚きで一瞬息をすることも忘れる。",
 		"answer": "いきをのむ",
+		"answer_opt": "息を呑む",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "ほっとする。一休みする。",
 		"answer": "いきをつく",
+		"answer_opt": "息をつく",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "呼吸の音を極力抑えじっとしている。",
 		"answer": "いきをころす",
+		"answer_opt": "息を殺す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自分の技術や能力、力量に自信をもっている。",
 		"answer": "うでにおぼえがある",
+		"answer_opt": "腕に覚えがある",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "腕前が優れている。",
 		"answer": "うでがたつ",
+		"answer_opt": "腕が立つ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "技術や能力、腕前が上達する。",
 		"answer": "うでがあがる",
+		"answer_opt": "腕が上がる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "なにかに心を奪われ、本来行うこと以外に夢中になる。",
 		"answer": "うつつをぬかす",
+		"answer_opt": "現を抜かす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "喜びで舞い上がり我を忘れる。",
 		"answer": "うちょうてんになる",
+		"answer_opt": "有頂天になる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "地位が低いまま、なかなか出世できない。何事もうまくいかない。",
 		"answer": "うだつがあがらない",
+		"answer_opt": "うだつが上がらない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "多くの嘘。全くのでたらめ。",
 		"answer": "うそはっぴゃく",
+		"answer_opt": "嘘八百",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "知らないところで悪口を言われる。陰口を叩かれる。",
 		"answer": "うしろゆびをさされる",
+		"answer_opt": "後ろ指を指される",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "未練が残り、なかなか思い切れない。",
 		"answer": "うしろかみをひかれる",
+		"answer_opt": "後ろ髪を引かれる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "似たような物事が続いて現れる。",
 		"answer": "うごのたけのこ",
+		"answer_opt": "雨後の筍",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "恐怖や不安で動揺し落ち着きがなくなる。逃げ腰になる。",
 		"answer": "うきあしだつ",
+		"answer_opt": "浮き足立つ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "どんなに優れていると思っても、更に優れたものがある。",
 		"answer": "うえにはうえがある",
+		"answer_opt": "上には上がある",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "最終宣告をし、あきらめさせる。",
 		"answer": "いんどうをわたす",
+		"answer_opt": "引導を渡す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "商売でおまけや、割り引きをする。",
 		"answer": "いろをつける",
+		"answer_opt": "色を付ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "恐れや驚きで、顔色が悪くなる。青ざめる。",
 		"answer": "いろをうしなう",
+		"answer_opt": "色を失う",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手が思ってもいないことをして、驚かせる。",
 		"answer": "いひょうをつく",
+		"answer_opt": "意表を突く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "焦りや不安で心が落ち着かず、じっとしていられない。",
 		"answer": "いてもたってもいられない",
+		"answer_opt": "居ても立っても居られない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "うまくだまされる。相手のたくらみに引っかかる。",
 		"answer": "いっぱいくわされる",
+		"answer_opt": "一杯食わされる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "境界線を引き、区別をはっきりさせる。",
 		"answer": "いっせんをかくす",
+		"answer_opt": "一線を画す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "従来の考えや意見に、新たに問題を投げかける。",
 		"answer": "いっせきをとうじる",
+		"answer_opt": "一石を投じる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "何のかかわりもない。",
 		"answer": "えんもゆかりもない",
+		"answer_opt": "縁もゆかりもない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "気持ちを引き締め、まじめに事にあたる。",
 		"answer": "えりをただす",
+		"answer_opt": "襟を正す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "計画だけで実際には何の役にも立たない。実現する見込みがない。",
 		"answer": "えにかいたもち",
+		"answer_opt": "絵に描いた餅",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "得意なことを発揮できる機会が到来し、張り切る。",
 		"answer": "えてにほをあげる",
+		"answer_opt": "得手に帆を揚げる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "他のことに気を取られ、 、目の前のことに集中できない。",
 		"answer": "うわのそら",
+		"answer_opt": "上の空",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "顔や姿など容姿がよく似ている。",
 		"answer": "うりふたつ",
+		"answer_opt": "瓜二つ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手の暴言に対し、同様に暴言で返す。",
 		"answer": "うりことばかいことば",
+		"answer_opt": "売り言葉買い言葉",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手の思惑とは反対のことをして、相手を出し抜く。",
 		"answer": "うらをかく",
+		"answer_opt": "裏をかく",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "良い結果を期待して行ったことが、逆に悪い結果になる。",
 		"answer": "うらめにでる",
+		"answer_opt": "裏目に出る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "文句を言わせず。相手の意見に関わらず。無理やり。",
 		"answer": "うむをいわせず",
+		"answer_opt": "有無を言わせず",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物事の得体が知れず、将来どうなるかわからない。",
 		"answer": "うみのものともやまのものともつかない",
+		"answer_opt": "海の物とも山の物ともつかない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "互いの心がぴったりと合う。気が合う。",
 		"answer": "うまがあう",
+		"answer_opt": "馬が合う",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "熱心に何かを探しているようす。",
 		"answer": "うのめたかのめ",
+		"answer_opt": "鵜の目鷹の目",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物事の内容、真意をよく理解せず、受け入れてしまう。",
 		"answer": "うのみにする",
+		"answer_opt": "鵜呑みにする",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物価、人気、気温などが急激に上がっていく。",
 		"answer": "うなぎのぼり",
+		"answer_opt": "鰻登り",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "体が大きいだけで、何の役にも立たない者。",
 		"answer": "うどのたいぼく",
+		"answer_opt": "独活の大木",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "技術や能力を向上させるため努力する。",
 		"answer": "うでをみがく",
+		"answer_opt": "腕を磨く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "技術や能力を十分に発揮する。",
 		"answer": "うでをふるう",
+		"answer_opt": "腕を振るう",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "すぐに反応する。",
 		"answer": "うてばひびく",
+		"answer_opt": "打てば響く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自信のある技術や能力を十分に発揮しようと意気込む。",
 		"answer": "うでによりをかける",
+		"answer_opt": "腕に縒りを掛ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "親の地位や名声に、子供が恩恵を受ける。",
 		"answer": "おやのひかりはななひかり",
+		"answer_opt": "親の光は七光",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "経済的に自立できず、親に　頼って生活する。",
 		"answer": "おやのすねをかじる",
+		"answer_opt": "親の脛をかじる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "責任を果たしほっとする。心配事が解決し安心する。",
 		"answer": "おもにをおろす",
+		"answer_opt": "重荷を下ろす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "意図したとおり。予想したとおり。たくらみどおり。",
 		"answer": "おもうつぼ",
+		"answer_opt": "思う壺",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自分に順番が回ってくる。",
 		"answer": "おはちがまわる",
+		"answer_opt": "お鉢が回る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "大きな功名、手柄を立てたかのように喜び得意になる。",
 		"answer": "おにのくびをとったよう",
+		"answer_opt": "鬼の首を取ったよう",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "実現性や見通しがはっきりしない未来の事を言う人をからかう言葉。",
 		"answer": "おにがわらう",
+		"answer_opt": "鬼が笑う",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "関係ないように見えるが、実は同類、仲間である。",
 		"answer": "おなじあなのむじな",
+		"answer_opt": "同じ穴の狢",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "人伝いや、噂に聞くほど名高く有名である。",
 		"answer": "おんにきく",
+		"answer_opt": "音に聞く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "その場しのぎの行動でごまかしたり、取り繕う。",
 		"answer": "おちゃをにごす",
+		"answer_opt": "お茶を濁す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "先を越される。出遅れる。",
 		"answer": "おくれをとる",
+		"answer_opt": "後れを取る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物事を深く隠し、決して口や態度に出さない。",
 		"answer": "おくびにもださない",
+		"answer_opt": "おくびにも出さない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "言いたいことをはっきりと言わずに、隠し事をしているような言い回しをして、すっきりしない。",
 		"answer": "おくばにものがはさまる",
+		"answer_opt": "奥歯に物が挟まる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "失敗や悪い行いを、厳しくとがめない。",
 		"answer": "おおめにみる",
+		"answer_opt": "大目に見る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "目上の人からひどく叱られる。",
 		"answer": "おおめだまをくう",
+		"answer_opt": "大目玉を食う",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "現実的ではないほど大げさな事を言う。",
 		"answer": "おおぶろしきをひろげる",
+		"answer_opt": "大風呂敷を広げる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "信頼したものに安心して任せる。",
 		"answer": "おおぶねにのったよう",
+		"answer_opt": "大船に乗ったよう",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "偉そうな言動をする。",
 		"answer": "おおきなくちをきく",
+		"answer_opt": "大きな口をきく",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "分不相応に威張った態度を取る。悪事を働きながら平然としている。",
 		"answer": "おおきなかおをする",
+		"answer_opt": "大きな顔をする",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手の言動と同じ言動で受け答えする。",
 		"answer": "おうむがえし",
+		"answer_opt": "おうむ返し",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "そこにあった様子などまるでない。何も残っていない。",
 		"answer": "かげもかたちもない",
+		"answer_opt": "影も形もない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "見える所でも見えない所でも、様々に援助する。",
 		"answer": "かげになりひなたになり",
+		"answer_opt": "影になり日向になり",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "元気がなく、存在が目立たない。",
 		"answer": "かげがうすい",
+		"answer_opt": "影が薄い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "姿を見せる。人の家に訪問する。会合などに出席する。",
 		"answer": "かおをだす",
+		"answer_opt": "顔を出す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "広く世間に知られるように売り込む。",
 		"answer": "かおをうる",
+		"answer_opt": "顔を売る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "名誉を傷つけ、恥をかかせる。",
 		"answer": "かおにどろをぬる",
+		"answer_opt": "顔に泥を塗る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "恥ずかしくて顔が赤くなる。",
 		"answer": "かおからひがでる",
+		"answer_opt": "顔から火が出る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "知り合いが多い。多くの人と付き合いがある。",
 		"answer": "かおがひろい",
+		"answer_opt": "顔が広い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "世間に対して、面目や体面をうしなう。",
 		"answer": "かおがつぶれる",
+		"answer_opt": "顔がつぶれる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "世間に対して、面目や体面が保たれる。",
 		"answer": "かおがたつ",
+		"answer_opt": "顔が立つ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "信用や力があるため、相手に融通してもらえる。",
 		"answer": "かおがきく",
+		"answer_opt": "顔が利く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "顔が広く知れ渡り、有名になる。",
 		"answer": "かおがうれる",
+		"answer_opt": "顔が売れる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手の表情をみて、気持ちや機嫌を探る。",
 		"answer": "かおいろをうかがう",
+		"answer_opt": "顔色をうかがう",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "こじれた物事を見事に解決する。",
 		"answer": "かいとうらんまをたつ",
+		"answer_opt": "快刀乱麻を断つ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "跡形もなく、すべて燃え尽きてしまう。",
 		"answer": "かいじんにきす",
+		"answer_opt": "灰燼に帰す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "日頃から面倒を見ていた人物から裏切られる。",
 		"answer": "かいいぬにてをかまれる",
+		"answer_opt": "飼い犬に手を噛まれる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "恩人に対し、害を与える。",
 		"answer": "おんをあだでかえす",
+		"answer_opt": "恩を仇で返す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "恩を施し、そのことをありがたく思わせようとする。",
 		"answer": "おんにきせる",
+		"answer_opt": "恩に着せる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "人が集まり物事をする時に先頭に立ちまとめていく。",
 		"answer": "おんどをとる",
+		"answer_opt": "音頭を取る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "人の人格、技術や物の価値、品質が優れたものと定評があり保証されている。",
 		"answer": "おりがみつき",
+		"answer_opt": "折り紙付き",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "対立するどちらか一方の味方をする。ひいきする。",
 		"answer": "かたをもつ",
+		"answer_opt": "肩を持つ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "能力や地位などが同格で対等な位置にある。",
 		"answer": "かたをならべる",
+		"answer_opt": "肩を並べる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物事を終わりにする。決着をつける。",
 		"answer": "かたをつける",
+		"answer_opt": "方を付ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "がっかりして気力を失い、肩が垂れ下がる。",
 		"answer": "かたをおとす",
+		"answer_opt": "肩を落とす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "肩を高く起こして、相手に威圧的な態度をとる。",
 		"answer": "かたをいからす",
+		"answer_opt": "肩を怒らす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "問い詰めても、なかなか言わないが、意識させずに話させると、うっかり秘密を漏らす。",
 		"answer": "かたるにおちる",
+		"answer_opt": "語るに落ちる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "世間に対して引け目を感じ、恥ずかしく思う。",
 		"answer": "かたみがせまい",
+		"answer_opt": "肩身が狭い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "仕事や計画に協力する。多く、悪事について用いられる。",
 		"answer": "かたぼうをかつぐ",
+		"answer_opt": "片棒を担ぐ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "身の程知らずの相手が、おかしくてたまらない。",
 		"answer": "かたはらいたい",
+		"answer_opt": "片腹痛い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "責任や負担から解放される。",
 		"answer": "かたのにがおりる",
+		"answer_opt": "肩の荷が下りる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "決まりきった形式や方法で、独創性がない。",
 		"answer": "かたにはまる",
+		"answer_opt": "型にはまる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "肩を上下させ、苦しそうな様子で息をする。",
 		"answer": "かたでいきをする",
+		"answer_opt": "肩で息をする",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "事の成り行きを緊張しながら見守る。",
 		"answer": "かたずをのむ",
+		"answer_opt": "固唾を呑む",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物事の処理が終わる。決着がつく。",
 		"answer": "かたがつく",
+		"answer_opt": "方が付く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "その時々の一定しない気分や加減。",
 		"answer": "かぜのふきまわし",
+		"answer_opt": "風の吹き回し",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "どこからともなく伝わってくる噂。",
 		"answer": "かぜのたより",
+		"answer_opt": "風の便り",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自分や後援者の権力や地位など、有利な立場を利用し威張る。自分の施した恩を理由に、勝手な行動をとる。",
 		"answer": "かさにきる",
+		"answer_opt": "笠に着る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "性質や行動が卑劣で仲間として認められない。",
 		"answer": "かざかみにもおけない",
+		"answer_opt": "風上にも置けない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "身の自由が奪われている。",
 		"answer": "かごのとり",
+		"answer_opt": "籠の鳥",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "目立っていた物事が姿を隠す。",
 		"answer": "かげをひそめる",
+		"answer_opt": "影を潜める",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "不安や心配で落ち着かない。",
 		"answer": "きがきでない",
+		"answer_opt": "気が気でない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "細かいところまで注意が行き届く。しゃれている。",
 		"answer": "きがきく",
+		"answer_opt": "気が利く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "なにかしようにも気が進まず、やる気が出ない。",
 		"answer": "きがおもい",
+		"answer_opt": "気が重い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "気遣い、遠慮なく心が許せる。",
 		"answer": "きがおけない",
+		"answer_opt": "気が置けない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "心が移りやすく、関心や興味がすぐに変わる。",
 		"answer": "きがおおい",
+		"answer_opt": "気が多い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "外見と中身、言葉と行動が一致している。",
 		"answer": "かんばんにいつわりなし",
+		"answer_opt": "看板に偽りなし",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "我慢の限界を超え、怒りが爆発する。",
 		"answer": "かんにんぶくろのおがきれる",
+		"answer_opt": "堪忍袋の緒が切れる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "腹立たしく気に入らない。",
 		"answer": "かんにさわる",
+		"answer_opt": "癇に障る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "全く気にかけない。関心がない。",
 		"answer": "がんちゅうにない",
+		"answer_opt": "眼中にない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "人気がなく、寂れてしまった様子。",
 		"answer": "かんこどりがなく",
+		"answer_opt": "閑古鳥が鳴く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "衰えたものが再び栄える。",
 		"answer": "かれきにはな",
+		"answer_opt": "枯れ木に花",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "普段とちがい、おとなしい様子。",
 		"answer": "かりてきたねこ",
+		"answer_opt": "借りてきた猫",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "入浴時間が短時間である。",
 		"answer": "からすのぎょうずい",
+		"answer_opt": "烏の行水",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物事に関わることができない。仲間外れ。",
 		"answer": "かやのそと",
+		"answer_opt": "蚊帳の外",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "言葉巧みに相手に問いかけ、知りたい事を聞き出す。",
 		"answer": "かまをかける",
+		"answer_opt": "鎌を掛ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手に敵わない事を認め、降参する。",
 		"answer": "かぶとをぬぐ",
+		"answer_opt": "兜を脱ぐ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "金の力が大きい。",
 		"answer": "かねがものをいう",
+		"answer_opt": "金が物を言う",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手に対する言動が原因で関係が悪くなる。",
 		"answer": "かどがたつ",
+		"answer_opt": "角が立つ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "納得いかない。腑に落ちない。",
 		"answer": "がてんがいかない",
+		"answer_opt": "合点がいかない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "刺激を与えて、元気づけ、気力を奮い立たせる。",
 		"answer": "かつをいれる",
+		"answer_opt": "活を入れる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "小さな音でも聞き漏らさぬよう集中して聞こうとする。",
 		"answer": "ききみみをたてる",
+		"answer_opt": "聞き耳を立てる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自信が持てずに、性格や考えが消極的である。",
 		"answer": "きがよわい",
+		"answer_opt": "気が弱い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "気持ちが沈み、憂鬱な気分になる。",
 		"answer": "きがめいる",
+		"answer_opt": "気が滅入る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "その気になる。関心を持つ。",
 		"answer": "きがむく",
+		"answer_opt": "気が向く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "すぐに怒ったりいらいらする。忍耐強くなく、せっかち。",
 		"answer": "きがみじかい",
+		"answer_opt": "気が短い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "細かいところまで注意し配慮が行き届く。",
 		"answer": "きがまわる",
+		"answer_opt": "気が回る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "うしろめたさを感じ、ためらう。",
 		"answer": "きがひける",
+		"answer_opt": "気が引ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "何かと先を急ぐ。せっかちである。",
 		"answer": "きがはやい",
+		"answer_opt": "気が早い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "気持ちが入らずやる気がなくなる。飲み物の風味がなくなる。",
 		"answer": "きがぬける",
+		"answer_opt": "気が抜ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "のんびりしていて、焦ったり、いらいらしない。",
 		"answer": "きがながい",
+		"answer_opt": "気が長い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "関心がない。　　",
 		"answer": "きがない",
+		"answer_opt": "気がない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "うしろめたい気持ちになる。",
 		"answer": "きがとがめる",
+		"answer_opt": "気が咎める",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "意識が薄れる。物事の規模が膨大で想像がつかない。",
 		"answer": "きがとおくなる",
+		"answer_opt": "気が遠くなる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自分の意見や考えを容易に変えない。勝ち気である。",
 		"answer": "きがつよい",
+		"answer_opt": "気が強い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "あることがわかる、考えが及ぶ。細かく配慮が行き届く。意識を取り戻す。",
 		"answer": "きがつく",
+		"answer_opt": "気が付く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "一つのことに気持ちが集中できず、散漫になる。",
 		"answer": "きがちる",
+		"answer_opt": "気が散る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "小さなことまで気にする。小心者。",
 		"answer": "きがちいさい",
+		"answer_opt": "気が小さい",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "感情が高ぶり、興奮する。",
 		"answer": "きがたつ",
+		"answer_opt": "気が立つ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "積極的にやりたくない。気乗りしない。",
 		"answer": "きがすすまない",
+		"answer_opt": "気が進まない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物事を始めるのに最も適した時期になる。",
 		"answer": "きがじゅくす",
+		"answer_opt": "機が熟す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "心に深く刻み、忘れない。",
 		"answer": "きもにめいじる",
+		"answer_opt": "肝に銘じる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "度胸があり、少々のことでは動じない。",
 		"answer": "きもがふとい",
+		"answer_opt": "肝が太い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "恐れたり、驚くことなく落ち着いている。",
 		"answer": "きもがすわる",
+		"answer_opt": "肝が据わる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "細かく丁寧に気が配られている。",
 		"answer": "きめがこまかい",
+		"answer_opt": "木目が細かい",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "周囲に対して面目が立たない。恥ずかしい。",
 		"answer": "きまりがわるい",
+		"answer_opt": "きまりが悪い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "攻撃の意思を持って襲い掛かる。",
 		"answer": "きばをむく",
+		"answer_opt": "牙を剥く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "贈り物の値段や量はささやかだが、心が込められている。",
 		"answer": "きはこころ",
+		"answer_opt": "気は心",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "今着ている服以外には何も持っていない。",
 		"answer": "きのみきのまま",
+		"answer_opt": "着の身着のまま",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "いろいろと心配して思い悩む。",
 		"answer": "きにやむ",
+		"answer_opt": "気に病む",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "嫌だと感じる。不満に思う。",
 		"answer": "きにくわない",
+		"answer_opt": "気に食わない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "心に留め、心配する。",
 		"answer": "きにかける",
+		"answer_opt": "気に掛ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "好きになる。良いと感じる。",
 		"answer": "きにいる",
+		"answer_opt": "気に入る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物事が計画通りに進むようになる。",
 		"answer": "きどうにのる",
+		"answer_opt": "軌道に乗る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "冷たく無愛想な態度を取る。",
 		"answer": "きではなをくくる",
+		"answer_opt": "木で鼻を括る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "意外な事が起こりわけがわからず茫然とする。",
 		"answer": "きつねにつままれる",
+		"answer_opt": "狐につままれる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手より先に行動を起こし、相手を翻弄する。",
 		"answer": "きせんをせいする",
+		"answer_opt": "機先を制する",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "家や故郷に早く帰りたいという気持ちがとても強い。",
 		"answer": "きしんやのごとし",
+		"answer_opt": "帰心矢のごとし",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "頭の中で考えただけで、実際には何の役にも立たない理論や計画。",
 		"answer": "きじょうのくうろん",
+		"answer_opt": "机上の空論",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "人の気分を良くしようと働きかける。",
 		"answer": "きげんをとる",
+		"answer_opt": "機嫌を取る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手の意見や忠告などを聞く気がない。",
 		"answer": "きくみみをもたない",
+		"answer_opt": "聞く耳を持たない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "言ってはいけないことをついうっかり話してしまう。",
 		"answer": "くちがすべる",
+		"answer_opt": "口が滑る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "秘密などを軽々しく話してしまう。",
 		"answer": "くちがかるい",
+		"answer_opt": "口が軽い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "秘密を軽々しく他に漏らさない。",
 		"answer": "くちがかたい",
+		"answer_opt": "口が堅い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "口数が少ない。無口。言いたくない。",
 		"answer": "くちがおもい",
+		"answer_opt": "口が重い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "あらゆる方法を用いて、隅々まで捜す。",
 		"answer": "くさのねをわけてさがす",
+		"answer_opt": "草の根を分けて捜す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "都合の悪いことを一時的に隠し、ごまかす。",
 		"answer": "くさいものにふたをする",
+		"answer_opt": "臭い物に蓋をする",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "あとで言い逃れや間違いのないように念をおす。",
 		"answer": "くぎをさす",
+		"answer_opt": "釘を刺す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手を倒すか、こちらが倒されるか際どい命がけの勝負。",
 		"answer": "くうかくわれるか",
+		"answer_opt": "食うか食われるか",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手を信用し、警戒心や緊張を解いて油断する。",
 		"answer": "きをゆるす",
+		"answer_opt": "気を許す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "あれこれと心配して、やきもきする。",
 		"answer": "きをもむ",
+		"answer_opt": "気を揉む",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "必要以上に考えすぎて、余計な憶測、邪推をする。",
 		"answer": "きをまわす",
+		"answer_opt": "気を回す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "良い方向に進めるように気分、心を入れ替える。",
 		"answer": "きをとりなおす",
+		"answer_opt": "気を取り直す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "注意を奪われる。",
 		"answer": "きをとられる",
+		"answer_opt": "気を取られる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "様々な事に注意をはらい、配慮する。",
 		"answer": "きをくばる",
+		"answer_opt": "気を配る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "失望して元気をなくす。",
 		"answer": "きをおとす",
+		"answer_opt": "気を落とす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "文字には書かれていない、筆者の真意、意図を読み取る。",
 		"answer": "ぎょうかんをよむ",
+		"answer_opt": "行間を読む",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "厳しく叱り、こらしめる。",
 		"answer": "きゅうをすえる",
+		"answer_opt": "灸を据える",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "世間の注目を集める。",
 		"answer": "きゃっこうをあびる",
+		"answer_opt": "脚光を浴びる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "恐ろしい事態に驚き、ひやりとする。",
 		"answer": "きもをひやす",
+		"answer_opt": "肝を冷やす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "とても驚く。",
 		"answer": "きもをつぶす",
+		"answer_opt": "肝をつぶす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "多数の中で特別に優れている。",
 		"answer": "ぐんをぬく",
+		"answer_opt": "群を抜く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "勝利が決定する。",
 		"answer": "ぐんばいがあがる",
+		"answer_opt": "軍配が上がる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "期待して待ち望む。",
 		"answer": "くびをながくする",
+		"answer_opt": "首を長くする",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "解雇する。仕事をやめさせる。",
 		"answer": "くびをきる",
+		"answer_opt": "首を切る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "不思議や疑問に思う。",
 		"answer": "くびをかしげる",
+		"answer_opt": "首を傾げる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "解雇され、職を失う。",
 		"answer": "くびになる",
+		"answer_opt": "首になる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "借金などでお金がなくなり、どうしようもない。",
 		"answer": "くびがまわらない",
+		"answer_opt": "首が回らない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "苦し紛れに考え出した方法。",
 		"answer": "くにくのさく",
+		"answer_opt": "苦肉の策",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "白状する。",
 		"answer": "くちをわる",
+		"answer_opt": "口を割る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "他人の会話に割り込んで話す。",
 		"answer": "くちをはさむ",
+		"answer_opt": "口を挟む",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "悪事を働きながら、無関係を装う。知っているのに知らないふりをする。",
 		"answer": "ぐちをぬぐう",
+		"answer_opt": "口を拭う",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "唇を突出し、不満を表情にだす。",
 		"answer": "ぐちをとがらせる",
+		"answer_opt": "口を尖らせる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "口を閉ざし話をやめる。",
 		"answer": "くちをつぐむ",
+		"answer_opt": "口をつぐむ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "何度も繰り返し忠告する。",
 		"answer": "ぐちをすっぱくする",
+		"answer_opt": "口を酸っぱくする",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "話をする。仲を取り持つ。",
 		"answer": "くちをきく",
+		"answer_opt": "口を利く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "話すことも、することも非常に長けている。",
 		"answer": "ぐちもはっちょうてもはっちょう",
+		"answer_opt": "口も八丁手も八丁",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "一番先に行動し、きっかけを作る。",
 		"answer": "くちびをきる",
+		"answer_opt": "口火を切る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "幼く、未熟で経験が足りない。",
 		"answer": "くちばしがきいろい",
+		"answer_opt": "くちばしが黄色い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "言葉巧みにおだてられ、だまされる。",
 		"answer": "くちぐるまにのる",
+		"answer_opt": "口車に乗る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "何を言われても、勝手な理屈を並べて言い返す。",
 		"answer": "くちがへらない",
+		"answer_opt": "口が減らない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "失敗してもそこから、何かを見つけ出すほど欲深い。",
 		"answer": "ころんでもただではおきない",
+		"answer_opt": "転んでもただでは起きない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "聞くつもりもないが、ちらりと聞く。",
 		"answer": "こみみにはさむ",
+		"answer_opt": "小耳に挟む",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "気に入られるようにとへつらい機嫌を取ったり、お世辞を言う。",
 		"answer": "ごまをする",
+		"answer_opt": "胡麻を擂る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "はっきりと言わずにあいまいな言い回しをする。",
 		"answer": "ことばをにごす",
+		"answer_opt": "言葉を濁す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "驚きや恐怖で立てなくなる。",
 		"answer": "こしをぬかす",
+		"answer_opt": "腰を抜かす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "落ち着いて物事に取り掛かる。ある場所に落ち着く。",
 		"answer": "こしをすえる",
+		"answer_opt": "腰を据える",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "途中で邪魔をする。",
 		"answer": "こしをおる",
+		"answer_opt": "腰を折る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "人に対して、へりくだって控えめな態度でいる。",
 		"answer": "こしがひくい",
+		"answer_opt": "腰が低い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "気が強く、あきらめない。粘り気や弾力がある。",
 		"answer": "こしがつよい",
+		"answer_opt": "腰が強い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "かわいそうと思いながらも、その人のために厳しくする。",
 		"answer": "こころをおににする",
+		"answer_opt": "心を鬼にする",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "あるものに強く魅力を感じたり感銘を受け、夢中になる。",
 		"answer": "こころをうばわれる",
+		"answer_opt": "心を奪われる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "うれしくて気持ちがうきうきする。",
 		"answer": "こころがはずむ",
+		"answer_opt": "心が弾む",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "互いの気持ちが通じ合う。",
 		"answer": "こころがかよう",
+		"answer_opt": "心が通う",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "思うように物事が進まず、腹を立てる。",
 		"answer": "ごうをにやす",
+		"answer_opt": "業を煮やす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "二つを比べても差がなく、優劣がつけられない。",
 		"answer": "こうおつつけがたし",
+		"answer_opt": "甲乙付け難し",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "決着をつけ、終わりにする。",
 		"answer": "けりをつける",
+		"answer_opt": "けりを付ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手の知らないことや、大げさなことを言い立てて、相手を惑わせたり、ごまかす。",
 		"answer": "けむりにまく",
+		"answer_opt": "煙に巻く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物事の処理法や責任の一切をすべて他人任せにする。",
 		"answer": "げたをあずける",
+		"answer_opt": "下駄を預ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "失敗や過失と思ったことが、思いがけず良い結果を生む。",
 		"answer": "けがのこうみょう",
+		"answer_opt": "怪我の功名",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "工夫もなく、おもしろみに欠ける。",
 		"answer": "げいがない",
+		"answer_opt": "芸がない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "思いの外に知識や能力が高く、油断ならない。",
 		"answer": "すみにおけない",
+		"answer_opt": "隅に置けない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "経済的に自立できず、親に頼って生活する。 「親の脛をかじる」 と同意。",
 		"answer": "すねをかじる",
+		"answer_opt": "脛をかじる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "とても少ない。ごくわずか。",
 		"answer": "すずめのなみだ",
+		"answer_opt": "雀の涙",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "冷たく、悪意や憎しみのこもった目で見る。",
 		"answer": "しろいめでみる",
+		"answer_opt": "白い目で見る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "差し迫った事態となり、追い詰められる。",
 		"answer": "しりにひがつく",
+		"answer_opt": "尻に火がつく",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "気軽に物事に取り掛かる。軽はずみ。",
 		"answer": "しりがかるい",
+		"answer_opt": "尻が軽い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "めんどうくさがって、なかなか動こうとしない。",
 		"answer": "しりがおもい",
+		"answer_opt": "尻が重い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "他人につられて、考えなしに調子に乗って真似をする。",
 		"answer": "しりうまにのる",
+		"answer_opt": "尻馬に乗る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "本当は知っているのに知らばくれる。",
 		"answer": "しらをきる",
+		"answer_opt": "白を切る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "数ある中から、特に選ばれる。",
 		"answer": "しらはのやがたつ",
+		"answer_opt": "白羽の矢が立つ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "長く待たされ、我慢ができなくなる。",
 		"answer": "しびれをきらす",
+		"answer_opt": "しびれを切らす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "力を出し切って激しく戦う。",
 		"answer": "しのぎをけずる",
+		"answer_opt": "しのぎを削る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "隠しごとがばれる。正体を現す。",
 		"answer": "しっぽをだす",
+		"answer_opt": "尻尾を出す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "十本の指では数えられない数。",
 		"answer": "じっしにあまる",
+		"answer_opt": "十指に余る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "言い終えたすぐ後。",
 		"answer": "したのねのかわかぬうち",
+		"answer_opt": "舌の根の乾かぬうち",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "不義理な事をしてしまった相手の家に行きにくい。",
 		"answer": "しきいがたかい",
+		"answer_opt": "敷居が高い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "全く問題にしない。無視する。",
 		"answer": "しがにもかけない",
+		"answer_opt": "歯牙にも掛けない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "いくら考えても考えが定まらず、思い悩む。",
 		"answer": "しあんにくれる",
+		"answer_opt": "思案に暮れる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "もうどうにもならないと見込みあきらめる。",
 		"answer": "さじをなげる",
+		"answer_opt": "さじを投げる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "見かけはよいが、基礎がなっておらず、すぐに壊れてしまうような計画。",
 		"answer": "さじょうのろうかく",
+		"answer_opt": "砂上の楼閣",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "面倒臭がって、ほんのちょっとしたこともしない。",
 		"answer": "たてのものをよこにもしない",
+		"answer_opt": "縦の物を横にもしない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "ある物事を材料に、言い訳をしたり言いがかりをつける。",
 		"answer": "たてにとる",
+		"answer_opt": "盾にとる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "すらすらとよどみなく話す様子。",
 		"answer": "たていたにみず",
+		"answer_opt": "立て板に水",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "勝手なことをしないように、他人の行動などを制限する。",
 		"answer": "たづなをしめる",
+		"answer_opt": "手綱を締める",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "立場を失い、面目が立たない。",
 		"answer": "たつせがない",
+		"answer_opt": "立つ瀬がない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手の実力に遠く及ばず、戦っても相手にならない。",
 		"answer": "たちうちできない",
+		"answer_opt": "太刀打ちできない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "どんなものでも細かく調べると、欠点や弱点が見つかる。",
 		"answer": "たたけばほこりがでる",
+		"answer_opt": "叩けばほこりが出る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "気性がまっすぐで、さっぱりとした性格。",
 		"answer": "たけをわったよう",
+		"answer_opt": "竹を割ったよう",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "大した程度ではないと予測し見くびる。",
 		"answer": "たかをくくる",
+		"answer_opt": "高を括る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "役に立つ能力や物を持っていながら使わずにいる。",
 		"answer": "たからのもちぐされ",
+		"answer_opt": "宝の持ち腐れ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "第三者の立場で遠くから安全に眺める。",
 		"answer": "たかみのけんぶつ",
+		"answer_opt": "高みの見物",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手を威圧し一方的に押し付けるような態度を取る。",
 		"answer": "たかびしゃにでる",
+		"answer_opt": "高飛車に出る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "ただ見ているだけで、手に入れることができずあこがれるだけの存在。",
 		"answer": "たかねのはな",
+		"answer_opt": "高嶺の花",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "緊張が緩み、まとまりややる気がなくなる。",
 		"answer": "たががゆるむ",
+		"answer_opt": "たがが緩む",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "程度の差はあっても。多かれ少なかれ。",
 		"answer": "だいなりしょうなり",
+		"answer_opt": "大なり小なり",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "人や物などの評価が確実であると保証する。",
 		"answer": "たいこばんをおす",
+		"answer_opt": "太鼓判を捺す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "他人にとっては重大な問題だが、自分には関係がないため何の苦痛もない。",
 		"answer": "たいがんのかじ",
+		"answer_opt": "対岸の火事",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "ある物事や人物を議論、批評、考察の対象として取り上げる。",
 		"answer": "そじょうにのせる",
+		"answer_opt": "俎上に載せる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "進んで他人の手助けをする。",
 		"answer": "せわをやく",
+		"answer_opt": "世話を焼く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "大きな事をするときには小さなことは犠牲にしても仕方がない。",
 		"answer": "せにはらはかえられない",
+		"answer_opt": "背に腹は代えられない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "ごくわずか、非常に少ないことの例え。",
 		"answer": "つめのあかほど",
+		"answer_opt": "爪の垢ほど",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "とても貧しい。ひどくけち。",
 		"answer": "づめにひをともす",
+		"answer_opt": "爪に火をともす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "気分を害して、ひねくれた態度を取る。",
 		"answer": "つむじをまげる",
+		"answer_opt": "旋毛を曲げる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "その場限りの間に合わせで知識や技術を習い覚える。",
 		"answer": "つけやきば",
+		"answer_opt": "付け焼刃",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "不必要なこと。無駄なこと。",
 		"answer": "つきよにちょうちん",
+		"answer_opt": "月夜に提灯",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "興奮して気持ちが高まり、活力がでる。",
 		"answer": "ちわきにくおどる",
+		"answer_opt": "血沸き肉躍る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "蛇のように長く続く列。",
 		"answer": "ちょうだのれつ",
+		"answer_opt": "長蛇の列",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "途中で邪魔をしたり、冷やかす。",
 		"answer": "ちゃちゃをいれる",
+		"answer_opt": "茶々を入れる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "思いやりや優しさなど人間的な感情がなく、冷酷。",
 		"answer": "ちもなみだもない",
+		"answer_opt": "血も涙もない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "目を血走らせ、冷静さを失うほど必死になる。",
 		"answer": "ちまなこになる",
+		"answer_opt": "血眼になる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "興奮して、じっとしていられなくなる。感情が高ぶる。",
 		"answer": "ちがさわぐ",
+		"answer_opt": "血が騒ぐ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "思いやりや気遣いがあり、人間らしい温かさを感じる。",
 		"answer": "ちがかよう",
+		"answer_opt": "血が通う",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "何かあれば連絡があるはずなので、何の連絡もないのは、何事もない証拠である。",
 		"answer": "だよりのないのはよいたより",
+		"answer_opt": "便りのないのは良い便り",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "共に行動してきた者と別れる、関係を断つ。",
 		"answer": "たもとをわかつ",
+		"answer_opt": "袂を分かつ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "間違いないと思われる事柄について、確認して更に確実にする。",
 		"answer": "だめをおす",
+		"answer_opt": "駄目を押す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "頼りにしている人や物。",
 		"answer": "たのみのつな",
+		"answer_opt": "頼みの綱",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物事の原因、元凶を作る。",
 		"answer": "たねをまく",
+		"answer_opt": "種をまく",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "都合の悪い時などに寝たふりをする。",
 		"answer": "たぬきねいり",
+		"answer_opt": "狸寝入り",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "血のつながりなどはなく、偶然顔つきが似ている。",
 		"answer": "たにんのそらに",
+		"answer_opt": "他人の空似",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自分に不都合なことは先送りにして触れずにおく。",
 		"answer": "たなにあげる",
+		"answer_opt": "棚に上げる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自分の心中にある計画などを明かす。又、技術、腕前を相手に見せる。",
 		"answer": "てのうちをみせる",
+		"answer_opt": "手の内を見せる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "すぐ目の前にあるかのように実感を持って見えたり聞こえたりする。",
 		"answer": "てにとるように",
+		"answer_opt": "手に取るように",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "他のことに気を取られて、すべきことに集中できない。",
 		"answer": "てにつかない",
+		"answer_opt": "手に付かない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自分の能力を超えていて、どうにもならない。",
 		"answer": "てにあまる",
+		"answer_opt": "手に余る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "危険な場面や切迫した状況に成り行きがどうなるのかはらはらする。",
 		"answer": "てにあせにぎる",
+		"answer_opt": "手に汗握る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "人を自分の思い通りに操る。",
 		"answer": "てだまにとる",
+		"answer_opt": "手玉に取る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自分で直接世話をし、大切に育てる。",
 		"answer": "てしおにかける",
+		"answer_opt": "手塩にかける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "何があってもその場から動かない。何事にも動じない強い信念。",
 		"answer": "てこでもうごかない",
+		"answer_opt": "梃子でも動かない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "寛大な気持ちで、手加減をする。",
 		"answer": "てごころをくわえる",
+		"answer_opt": "手心を加える",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "十分に用意をして敵を待ち受ける。",
 		"answer": "てぐすねをひく",
+		"answer_opt": "手ぐすねを引く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物事をてきぱきと的確に処理する。すぐに暴力をふるう。",
 		"answer": "てがはやい",
+		"answer_opt": "手が早い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自分の能力でどうにかなる。もう少しである段階に到達する。細かく配慮がなされている。",
 		"answer": "てがとどく",
+		"answer_opt": "手が届く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自分の能力ではどうすることもできない。",
 		"answer": "てがでない",
+		"answer_opt": "手が出ない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "処置のしようがない。",
 		"answer": "てがつけられない",
+		"answer_opt": "手が付けられない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "技術が優れ、複雑できめ細かい細工。また、複雑な物事。",
 		"answer": "てがこむ",
+		"answer_opt": "手が込む",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "世話がやける。手間がかかる。",
 		"answer": "てがかかる",
+		"answer_opt": "手が掛かる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "仕事が一段落し、時間ができる。",
 		"answer": "てがあく",
+		"answer_opt": "手が空く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "多くの意見をおさえつけ、否応なしに従わせる権力者の一言。",
 		"answer": "つるのひとこえ",
+		"answer_opt": "鶴の一声",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "ずうずうしく、厚かましい上に、それを恥とも思わない。",
 		"answer": "つらのかわがあつい",
+		"answer_opt": "面の皮が厚い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "優れた人物の事を少しでも見習おうとする気持ち。",
 		"answer": "つめのあかをせんじてのむ",
+		"answer_opt": "爪の垢を煎じて飲む",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "うまく扱えずに困る。てこずる。持て余す。",
 		"answer": "てをやく",
+		"answer_opt": "手を焼く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "ひそかに手段をめぐらし働きかけて、必要な準備をする。",
 		"answer": "てをまわす",
+		"answer_opt": "手を回す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自分が関わる範囲を広げる。事業を拡大する。",
 		"answer": "てをひろげる",
+		"answer_opt": "手を広げる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "これまでの関係を断ち切って退く。手を取って導く。",
 		"answer": "てをひく",
+		"answer_opt": "手を引く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "手間を省き、いい加減な仕事をする。",
 		"answer": "てをぬく",
+		"answer_opt": "手を抜く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "仲直りをする。協力し合い事を行う。",
 		"answer": "てをにぎる",
+		"answer_opt": "手を握る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "あらゆる方法、手段を使い、物事を実現、解決しようとする。",
 		"answer": "てをつくす",
+		"answer_opt": "手を尽くす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自ら進んで関与する。暴力を振るう。人の物を盗む。",
 		"answer": "てをだす",
+		"answer_opt": "手を出す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "新たに物事を始める。新たな関係を持ち始める。",
 		"answer": "てをそめる",
+		"answer_opt": "手を染める",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自ら直接物事を行う。",
 		"answer": "てをくだす",
+		"answer_opt": "手を下す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "関係を断ち切る。縁を切る。",
 		"answer": "てをきる",
+		"answer_opt": "手を切る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "手伝ってもらう。協力を仰ぐ。",
 		"answer": "てをかりる",
+		"answer_opt": "手を借りる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "様々に手段、方法を変えて試してみる。",
 		"answer": "てをかえしなをかえ",
+		"answer_opt": "手を変え品を変え",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "取引や交渉をまとめる。将来を予測し対策する。",
 		"answer": "てをうつ",
+		"answer_opt": "手を打つ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "より良い状態にするために補ったり、修正する。",
 		"answer": "てをいれる",
+		"answer_opt": "手を入れる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "降参する。手に余り投げ出す。殴ろうと手を振り上げる。",
 		"answer": "てをあげる",
+		"answer_opt": "手を上げる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自分の能力を生かす場がない。",
 		"answer": "でるまくがない",
+		"answer_opt": "出る幕がない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "力が及ばず、自分ではどうすることもできない。",
 		"answer": "てもあしもでない",
+		"answer_opt": "手も足も出ない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "話すことも、することも非常に長けている。 「口も八丁手も八丁」 と同意。",
 		"answer": "てはっちょうくちはっちょう",
+		"answer_opt": "手八丁口八丁",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "人に対する態度を急に変える。",
 		"answer": "てのひらをかえす",
+		"answer_opt": "手の平を返す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "機会をつかみ物事がうまく進み、勢いにのる。",
 		"answer": "ながれにさおさす",
+		"answer_opt": "流れに掉さす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "現状だけではなく、将来も見通し、気長に見守る。",
 		"answer": "ながいめでみる",
+		"answer_opt": "長い目で見る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "実際にないものは、どうにもならない。",
 		"answer": "ないそではふれない",
+		"answer_opt": "ない袖は振れない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "急な物事を大急ぎであわてて行う様子。",
 		"answer": "とるものもとりあえず",
+		"answer_opt": "取るものも取り敢えず",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "頼りにしても、全く相手にしてもらえず話もできない。",
 		"answer": "とりつくしまもない",
+		"answer_opt": "取り付く島もない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "大事にして手元に置き、手放さないもの。",
 		"answer": "とらのこ",
+		"answer_opt": "虎の子",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "方法や手段をつくしたがうまくいかず、どうしたらよいかわからない。",
 		"answer": "とほうにくれる",
+		"answer_opt": "途方に暮れる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "勢いがとても盛んな様子。",
 		"answer": "とぶとりをおとすいきおい",
+		"answer_opt": "飛ぶ鳥を落とす勢い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "結局のところ。",
 		"answer": "とどのつまり",
+		"answer_opt": "とどのつまり",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "決断をしなければならない最後の場面。",
 		"answer": "どたんば",
+		"answer_opt": "土壇場",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "年齢にふさわしくない事をする。",
 		"answer": "としがいもなく",
+		"answer_opt": "年甲斐もなく",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "悪を始末するために、別の悪を用いる。",
 		"answer": "どくをもってどくをせいす",
+		"answer_opt": "毒を以て毒を制す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "一度、悪事に手を染めてしまったからにはとことん悪事を重ねる。",
 		"answer": "どくをくらわばさらまで",
+		"answer_opt": "毒を食らわば皿まで",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "害はないが、役にも立たないどうでもよい物。",
 		"answer": "どくにもくすりにもならない",
+		"answer_opt": "毒にも薬にもならない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "その一人だけが思うままに活躍できる場面。",
 		"answer": "どくだんじょう",
+		"answer_opt": "独壇場",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手を心から驚かせる。",
 		"answer": "どぎもをぬく",
+		"answer_opt": "度肝を抜く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "最も勢いのある時期、最も危険な時期が過ぎる。",
 		"answer": "とうげをこす",
+		"answer_opt": "峠を越す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "二つの物の優劣などを比較する。対立する二つのどちらを選んでも損の無いように両者と関係を付ける。",
 		"answer": "てんびんにかける",
+		"answer_opt": "天秤に掛ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "いい気になってうぬぼれる。",
 		"answer": "てんぐになる",
+		"answer_opt": "天狗になる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "いざという時に使う、最後の手段。切り札。",
 		"answer": "でんかのほうとう",
+		"answer_opt": "伝家の宝刀",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "苦しさに耐え切れず、弱音を吐く。降参する。",
 		"answer": "ねをあげる",
+		"answer_opt": "音を上げる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "全く根拠がない。でたらめ。",
 		"answer": "ねもはもない",
+		"answer_opt": "根も葉もない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "思いがけない出来事や、不意な知らせに驚く。",
 		"answer": "ねみみにみず",
+		"answer_opt": "寝耳に水",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "せっかく収まった物事に余計な手出しをして、まためんどう起こす。",
 		"answer": "ねたこをおこす",
+		"answer_opt": "寝た子を起こす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "本性を隠し、おとなしそうに振る舞う。",
 		"answer": "ねこをかぶる",
+		"answer_opt": "猫を被る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "だれもかれも。なにもかも。",
 		"answer": "ねこもしゃくしも",
+		"answer_opt": "猫も杓子も",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "非常に狭いこと。",
 		"answer": "ねこのひたい",
+		"answer_opt": "猫の額",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "非常に忙しく、例えだれでも人手が欲しい様子。",
 		"answer": "ねこのてもかりたい",
+		"answer_opt": "猫の手も借りたい",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "身に覚えのない、無実の罪を負わされる。",
 		"answer": "ぬれきぬをきせられる",
+		"answer_opt": "濡れ衣を着せられる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "一度喜んだ後に、当てが外れてがっかりする。",
 		"answer": "ぬかよろこび",
+		"answer_opt": "糠喜び",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "前の人と同じ失敗を繰り返してしまう。",
 		"answer": "にのまいをえんじる",
+		"answer_opt": "二の舞を演じる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "決心がつかず、ためらい、しりごみする。",
 		"answer": "にのあしをふむ",
+		"answer_opt": "二の足を踏む",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "同じ人が両立しないような二つの職業を兼ねる。",
 		"answer": "にそくのわらじをはく",
+		"answer_opt": "二足の草鞋を履く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "ひどく苦い物を噛んだように不愉快な表情を表す。",
 		"answer": "にがむしをかみつぶしたよう",
+		"answer_opt": "苦虫を噛みつぶしたよう",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "力量に対して、責任や負担が大きすぎる。",
 		"answer": "にがおもい",
+		"answer_opt": "荷が重い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "大げさな宣伝が行われること。",
 		"answer": "なりものいり",
+		"answer_opt": "鳴り物入り",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "多くの人に知られるほど有名ではない。",
 		"answer": "なもない",
+		"answer_opt": "名もない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "悲しみや悔しさをぐっと堪え我慢する。",
 		"answer": "なみだをのむ",
+		"answer_opt": "涙を呑む",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "ひどく悲しみ、泣いて暮らす。",
 		"answer": "なみだにくれる",
+		"answer_opt": "涙に暮れる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "名前はそのものの、中身や実体をよく表している。",
 		"answer": "なはたいをあらわす",
+		"answer_opt": "名は体を表す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手を出し抜きあっと言わせる。",
 		"answer": "はなをあかす",
+		"answer_opt": "鼻を明かす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "嫌味のある言動や様子が不愉快で我慢ならない。",
 		"answer": "はなもちならない",
+		"answer_opt": "鼻持ちならない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "飽きて嫌になる。相手の言動をうっとおしく感じる。",
 		"answer": "はなにつく",
+		"answer_opt": "鼻に付く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "得意がり自慢する。",
 		"answer": "はなにかける",
+		"answer_opt": "鼻に掛ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手の言葉に取り合わず、ばかにして冷たい対応をする。",
 		"answer": "はなであしらう",
+		"answer_opt": "鼻であしらう",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "興味のある話題がたくさんあって、会話がはずむ。",
 		"answer": "はなしにはながさく",
+		"answer_opt": "話に花が咲く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "意気込みが激しく、強気で威勢が良い。",
 		"answer": "はないきがあらい",
+		"answer_opt": "鼻息が荒い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "どの方向に進んでも不利な状況で手の打ちようがない。",
 		"answer": "はっぽうふさがり",
+		"answer_opt": "八方塞がり",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "大きな騒ぎとなり手が付けられない様子。",
 		"answer": "はちのすをつついたよう",
+		"answer_opt": "蜂の巣をつついたよう",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "あまりにひどく、どうしようもない。何の取り柄もない。",
 		"answer": "ばしにもぼうにもかからない",
+		"answer_opt": "箸にも棒にも掛からない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "危険な状況にひやひやしながら臨む。",
 		"answer": "はくひょうをふむ",
+		"answer_opt": "薄氷を踏む",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物事の進行をいっそうはやめる。",
 		"answer": "はくしゃをかける",
+		"answer_opt": "拍車を掛ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "これまでの事をなかったものとして元に戻す。",
 		"answer": "はくしにもどす",
+		"answer_opt": "白紙に戻す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "値打ちや評価が高くなる。貫禄が付く。",
 		"answer": "はくがつく",
+		"answer_opt": "拍が付く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自分の力をはるかに超えるほど強大で、まるで対抗することができない。",
 		"answer": "はがたたない",
+		"answer_opt": "歯が立たない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "口先だけの軽々しい言葉を不快に感じる。",
 		"answer": "はがうく",
+		"answer_opt": "歯が浮く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "一度関わってしまった以上、途中で投げ出すわけにはいかない。",
 		"answer": "のりかかったふね",
+		"answer_opt": "乗りかかった船",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "欲しくてたまらないことの例え。",
 		"answer": "のどからてがでる",
+		"answer_opt": "喉から手が出る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自分には不要なものを物を喜んで差し上げる。厄介払いをする。",
 		"answer": "のしをつける",
+		"answer_opt": "熨斗を付ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "長く悪い行いを続けていた者が捕まり罪に服さねがならない時。物事に見切りをつけ、あきらめるべき時。",
 		"answer": "ねんぐのおさめどき",
+		"answer_opt": "年貢の納め時",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "新たに事業を始める。会社などを興して成功を収める。",
 		"answer": "ひとはたあげる",
+		"answer_opt": "一旗揚げる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "通常のやり方では処理できない。簡単ではない。",
 		"answer": "ひとすじなわではいかない",
+		"answer_opt": "一筋縄ではいかない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "不意を突いたり、予想外なことをして驚き慌てさせる。",
 		"answer": "ひとあわふかせる",
+		"answer_opt": "一泡吹かせる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "あまりに度を越えていて、文章や言葉では表現できない。",
 		"answer": "ひつぜつにつくしがたい",
+		"answer_opt": "筆舌に尽くし難い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "生活が豊かで苦労なく気楽に過ごす。",
 		"answer": "ひだりうちわでくらす",
+		"answer_opt": "左うちわで暮らす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "人が集まって相談する。",
 		"answer": "ひたいをあつめる",
+		"answer_opt": "額を集める",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "お互いにうちとけて親しく語り合う。",
 		"answer": "ひざをまじえる",
+		"answer_opt": "膝を交える",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "反逆する。従っていたものが公然と命令を聞かなくなる。",
 		"answer": "はんきをひるがえす",
+		"answer_opt": "反旗を翻す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "見かけだけで、実力もなく威張る人。主体性がなくうなずいてばかりの人。",
 		"answer": "はりこのとら",
+		"answer_opt": "張り子の虎",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "本心をすべてさらけ出し、打ち明ける。",
 		"answer": "はらをわる",
+		"answer_opt": "腹を割る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "覚悟を決める。決心する",
 		"answer": "はらをきめる",
+		"answer_opt": "腹を決める",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "激しい怒りで黙っていられない。",
 		"answer": "はらわたがにえくりかえる",
+		"answer_opt": "腸が煮えくり返る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "腹が立って我慢できない。",
 		"answer": "はらのむしがおさまらない",
+		"answer_opt": "腹の虫が収まらない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "怒りを我慢できる範囲を超える。",
 		"answer": "はらにすえかねる",
+		"answer_opt": "腹に据えかねる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "心の中では悪い考えをしている。",
 		"answer": "はらがくろい",
+		"answer_opt": "腹が黒い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "調子にのり度を超す。",
 		"answer": "はめをはずす",
+		"answer_opt": "羽目を外す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "勢いづいて思い通りに振る舞い、威張る。",
 		"answer": "はばをきかせる",
+		"answer_opt": "幅を利かせる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "束縛から解放され、自由にのびのびと振る舞う。",
 		"answer": "はねをのばす",
+		"answer_opt": "羽を伸ばす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "遠慮なく相手に思ったとおりのことを言う。",
 		"answer": "はにきぬきせぬ",
+		"answer_opt": "歯に衣着せぬ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "人に勝利や名誉をゆずり、相手をたてる。",
 		"answer": "はなをもたせる",
+		"answer_opt": "花を持たせる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "機嫌を悪くして意地を張る。また、わざと意地悪をする。",
 		"answer": "へそをまげる",
+		"answer_opt": "へそを曲げる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "ばかばかしくて仕方がない。または、おかしくてたまらない。",
 		"answer": "へそがちゃをわかす",
+		"answer_opt": "へそが茶を沸かす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "納得できない。合点がいかない。",
 		"answer": "ふにおちない",
+		"answer_opt": "腑に落ちない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "文章を書くのが巧みである",
 		"answer": "ふでがたつ",
+		"answer_opt": "筆が立つ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "追い詰められて逃げられない状態。",
 		"answer": "ふくろのねずみ",
+		"answer_opt": "袋の鼠",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "危険が迫り、今にも滅んでしまいそうな様子。",
 		"answer": "ふうぜんのともしび",
+		"answer_opt": "風前の灯",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "大きな出来事が起こりそうな、さしせまった状態であること。",
 		"answer": "ふううんきゅうをつげる",
+		"answer_opt": "風雲急を告げる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "最高から最低まで、または、最初から最後まで。",
 		"answer": "ピンからキリまで",
+		"answer_opt": "ピンからキリまで",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "疑う余地もないほど明らかである。",
 		"answer": "ひをみるよりあきらか",
+		"answer_opt": "火を見るより明らか",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "それまで続けてきたことに決着をつける。",
 		"answer": "ピリオドをうつ",
+		"answer_opt": "ピリオドを打つ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "大きな物事のほんの一部分。",
 		"answer": "ひょうざんのいっかく",
+		"answer_opt": "氷山の一角",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "冷たく扱われる。",
 		"answer": "ひやめしをくう",
+		"answer_opt": "冷や飯を食う",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "戦いや争い、競争を始める。",
 		"answer": "ひぶたをきる",
+		"answer_opt": "火蓋を切る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "互いに激しく争う。",
 		"answer": "ひばなをちらす",
+		"answer_opt": "火花を散らす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "今まで知られていなかったものが、ようやく世に認められる。",
 		"answer": "ひのめをみる",
+		"answer_opt": "日の目を見る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "経済状態が苦しくやりくりに困っている。",
 		"answer": "ひのくるま",
+		"answer_opt": "火の車",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "完全・完璧で少しの欠点もなく非難するところがない。",
 		"answer": "ひのうちどころがない",
+		"answer_opt": "非の打ち所がない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "激しい勢いのものに、さらに勢いを与える。",
 		"answer": "ひにあぶらをそそぐ",
+		"answer_opt": "火に油を注ぐ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手がいない、または相手にされていないのに自分一人で気負ってことに取り組む。また、その結果徒労に終わる。",
 		"answer": "ひとりずもうをとる",
+		"answer_opt": "一人相撲を取る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "人のために本気になり力を貸す。",
 		"answer": "ひとはだぬぐ",
+		"answer_opt": "一肌脱ぐ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "関係のない他人の起こした事件などに巻き込まれて、損害を受ける。",
 		"answer": "まきぞえをくう",
+		"answer_opt": "巻き添えを食う",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "①運や時機が悪いこと。 ②体裁が悪くて恥ずかしく感じる。",
 		"answer": "まがわるい",
+		"answer_opt": "間が悪い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "肝心なことが抜けていて、ばかげて見える。",
 		"answer": "まがぬける",
+		"answer_opt": "間が抜ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "ふと何かの拍子に判断や行動を誤り悪い考えが浮かぶ。",
 		"answer": "まがさす",
+		"answer_opt": "魔が差す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "数が多すぎて数え上げたらきりがない。",
 		"answer": "まいきょにいとまがない",
+		"answer_opt": "枚挙に暇がない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "うれしいことや楽しいことが続く。とても忙しい。",
 		"answer": "ぼんとしょうがつがいっしょにきたよう",
+		"answer_opt": "盆と正月が一緒に来たよう",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物事のなりゆきを見計らって有利な方に味方しようと、はっきりしない態度をとる。",
 		"answer": "ほらがとうげをきめこむ",
+		"answer_opt": "洞が峠を決め込む",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "一生懸命努力し苦労する。嫌がらずに人の世話をする。",
 		"answer": "ほねをおる",
+		"answer_opt": "骨を折る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "ある一つのことに人生をささげること。また、ある土地にずっととどまってその生涯を終える。",
 		"answer": "ほねをうめる",
+		"answer_opt": "骨を埋める",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "体が痩せて細くなってしまうほどに、一生懸命苦労したり努力したりする。",
 		"answer": "ほねみをけずる",
+		"answer_opt": "骨身を削る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "苦労や面倒を嫌がることなく。",
 		"answer": "ほねみをおしまず",
+		"answer_opt": "骨身を惜しまず",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "ある仕事に時間や手間、労力がかかって、困難であったり、苦労したりする。",
 		"answer": "ほねがおれる",
+		"answer_opt": "骨が折れる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "言い争うときなどに、攻撃の方向をそちらへ向ける。",
 		"answer": "ほこさきをむける",
+		"answer_opt": "矛先を向ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自分の立場を悪くしてしまうような原因を自分自身でつくってしまう。",
 		"answer": "ぼけつをほる",
+		"answer_opt": "墓穴を掘る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "とてもおいしいものを食べたときに使うたとえ。",
 		"answer": "ほおがおちる",
+		"answer_opt": "頬が落ちる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "めったにない機会を逃してしまったり、それまでの努力や苦労を無駄にしてしまう。",
 		"answer": "ぼうにふる",
+		"answer_opt": "棒に振る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "運の悪い人や弱い立場の人に同情したり、味方しようと思う気持ち。",
 		"answer": "ほうがんびいき",
+		"answer_opt": "判官びいき",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "優れた実力や知識の一部を少しだけ見せる。",
 		"answer": "へんりんをしめす",
+		"answer_opt": "片鱗を示す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "強い人のたったひとつだけの弱点や急所。むこうずね。",
 		"answer": "べんけいのなきどころ",
+		"answer_opt": "弁慶の泣き所",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "なんとも思わないこと。するのがとても簡単なこと。",
 		"answer": "へのかっぱ",
+		"answer_opt": "屁の河童",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物事がうまくいっているときに、それを邪魔するようなことを言う。",
 		"answer": "みずをさす",
+		"answer_opt": "水を差す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "その人にあった環境や職場などで、生き生きと活躍している様子。",
 		"answer": "みずをえたさかなのよう",
+		"answer_opt": "水を得た魚のよう",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "ある場所に大勢の人がいるときに、人々が物音を立てずに、場が静まり返る様子。",
 		"answer": "みずをうったよう",
+		"answer_opt": "水を打ったよう",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "何かの順位や能力で、競争相手との差を大きく広げ、引き離す。",
 		"answer": "みずをあける",
+		"answer_opt": "水をあける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "何かの計画を立てたり、何かを警戒することについて、少しも不注意や油断がなく、完璧な様子。",
 		"answer": "みずももらさぬ",
+		"answer_opt": "水も漏らさぬ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "（ふつう、美男や美女に対して） みずみずしくて魅力的なことを例える言葉。",
 		"answer": "みずのしたたるよう",
+		"answer_opt": "水の滴るよう",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "過去に起きたけんかやいやなことをあれこれ言わずに、なかったことにする。",
 		"answer": "みずにながす",
+		"answer_opt": "水に流す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "二つの物や人の性質、性格が互いに合わず、一つにまとまらない。",
 		"answer": "みずとあぶら",
+		"answer_opt": "水と油",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "それまではじめようとしなかった物事にとりかかる。",
 		"answer": "みこしをあげる",
+		"answer_opt": "みこしを上げる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "他人の言うことにはとにかく反対する。",
 		"answer": "みぎといえばひだり",
+		"answer_opt": "右といえば左",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "手に入れた金品や知識などが、そのまま他へ流れてしまい、自分の手元に残らない。",
 		"answer": "みぎからひだり",
+		"answer_opt": "右から左",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "ある物事に集中して、全力を注ぐ。",
 		"answer": "みがはいる",
+		"answer_opt": "身が入る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "外見を必要以上に飾って、人に良く思われようとする。",
 		"answer": "みえをはる",
+		"answer_opt": "見栄を張る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自分のことを誇って見せるような大げさな言動や態度をとる。",
 		"answer": "みえをきる",
+		"answer_opt": "見栄を切る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "時間をかけて遠まわしにじわじわと責める。",
 		"answer": "まわたでくびをしめる",
+		"answer_opt": "真綿で首を絞める",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "他人の不愉快な行動を不快に思い顔をしかめる。また、心配ごとや不安から顔をしかめる。",
 		"answer": "まゆをひそめる",
+		"answer_opt": "眉をひそめる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手に自分の運命をにぎられている。",
 		"answer": "まないたのこい",
+		"answer_opt": "俎板の鯉",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "要点をきちんとつかんでいる。",
 		"answer": "まとをいる",
+		"answer_opt": "的を射る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "目上の人の集まりなどに自分を加えてもらったときに、そのことをへりくだっていう言葉。",
 		"answer": "まっせきをけがす",
+		"answer_opt": "末席を汚す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "どんな人でも、服装を整えていれば立派に見える。",
 		"answer": "まごにもいしょう",
+		"answer_opt": "馬子にも衣装",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "お金や品物を、必要な分だけきっちりそろえて用意しておく。",
 		"answer": "みみをそろえる",
+		"answer_opt": "耳を揃える",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "神経を集中させ、聞き取ろうとする。",
 		"answer": "みみをそばだてる",
+		"answer_opt": "耳をそばだてる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "人の話や音などを聞こうとして、神経を集中する。",
 		"answer": "みみをすます",
+		"answer_opt": "耳を澄ます",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "聞き逃しなどのないように注意して聞く。熱心に聴く。",
 		"answer": "みみをかたむける",
+		"answer_opt": "耳を傾ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手の話や相談事を聞いてあげる。",
 		"answer": "みみをかす",
+		"answer_opt": "耳を貸す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "予想もできなかったことを聞き、信じられない。聞き間違えたのではないかと疑う。",
 		"answer": "みみをうたがう",
+		"answer_opt": "耳を疑う",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "ちょっと聞く。",
 		"answer": "みみにはさむ",
+		"answer_opt": "耳に挟む",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "①ある音や声が気になり、忘れられなくなる。 ②音や声などがうるさい。",
 		"answer": "みみにつく",
+		"answer_opt": "耳に付く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "同じことをいやになるほど何度も聞かされる。",
 		"answer": "みみにたこができる",
+		"answer_opt": "耳にたこができる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "①人に情報などを伝える。 ②情報などを聞いて知る。",
 		"answer": "みみにいれる",
+		"answer_opt": "耳に入れる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "それまで聞いたことのない、珍しい物事。",
 		"answer": "みみなれない",
+		"answer_opt": "耳慣れない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "ニュースや噂話を、他の人よりも早く知っている。",
 		"answer": "みみがはやい",
+		"answer_opt": "耳が早い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "他人の言葉が自分の欠点や弱点を指摘していて、聞いていてつらい。",
 		"answer": "みみがいたい",
+		"answer_opt": "耳が痛い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "恐怖や気味悪さのあまり、ぞっとして毛が逆立つように感じる。",
 		"answer": "みのけがよだつ",
+		"answer_opt": "身の毛がよだつ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "他人の不幸や失敗に共感し、切実に感じる。",
 		"answer": "みにつまされる",
+		"answer_opt": "身につまされる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "①衣服を着る。品物を体につけて持つ。 ②習った技術や能力を覚え、実際に使えるようになる。",
 		"answer": "みにつける",
+		"answer_opt": "身に付ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "①心の底から深く感じられる。実感すること。 ② （秋の冷え込みなどが） 強く感じられる。",
 		"answer": "みにしみる",
+		"answer_opt": "身に染みる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "与えられた待遇が、自分の価値や能力、身分や業績などを超えていて、もったいない。",
 		"answer": "みにあまる",
+		"answer_opt": "身に余る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物事の途中で別のことをして、時間を取られてしまう。",
 		"answer": "みちくさをくう",
+		"answer_opt": "道草を食う",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "失敗する。失敗して恥をかく。",
 		"answer": "みそをつける",
+		"answer_opt": "味噌を付ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "悲しみや苦しみ、憎しみなどで、耐えられないほどの苦痛を感じる。",
 		"answer": "むねがはりさける",
+		"answer_opt": "胸が張り裂ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "喜びや悲しみなどの感情がこみあげて、何もいえなくなる。",
 		"answer": "むねがつまる",
+		"answer_opt": "胸が詰まる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "悲しみや心配で胸が締め付けられるように感じる。",
 		"answer": "むねがつぶれる",
+		"answer_opt": "胸がつぶれる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "心が晴れやかになる。すっきりする。",
 		"answer": "むねがすく",
+		"answer_opt": "胸がすく",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "不安や心配、または期待などで、心が落ち着かなくなる。",
 		"answer": "むねがさわぐ",
+		"answer_opt": "胸が騒ぐ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "期待や興奮でわくわくして、落ち着かなくなる。",
 		"answer": "むねがおどる",
+		"answer_opt": "胸が躍る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "悲しみや喜びなどの感情が高まって、心が満たされる。",
 		"answer": "むねがいっぱいになる",
+		"answer_opt": "胸が一杯になる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "心配ごとや悲しみ、うしろめたさなどから、辛く感じる。",
 		"answer": "むねがいたむ",
+		"answer_opt": "胸が痛む",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "おとなしくて心優しい。また、（実際はそうではないとしても、）外見からはそのように見える。",
 		"answer": "むしもころさない",
+		"answer_opt": "虫も殺さない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "機嫌が悪くて、普段は気にならないようなことでも腹がたつ。",
 		"answer": "むしのいどころがわるい",
+		"answer_opt": "虫の居所が悪い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "今にも死んでしまいそうな様子。また、そのときの呼吸。",
 		"answer": "むしのいき",
+		"answer_opt": "虫の息",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "理由は特にないのに、好きになれないこと。",
 		"answer": "むしがすかない",
+		"answer_opt": "虫が好かない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "なんとなく、何か（たいていは悪いことが）起きる予感がする。",
 		"answer": "むしがしらせる",
+		"answer_opt": "虫が知らせる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自分の都合ばかり考え、他のことを考えない。身勝手である。",
 		"answer": "むしがいい",
+		"answer_opt": "虫がいい",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "①一人前の仕事ができるようになり、その仕事の収入で生活できるようになる。 ②出世し、世の中に認められる。",
 		"answer": "みをたてる",
+		"answer_opt": "身を立てる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自分の体を痛めてしまうほどに、苦労をしたり、心が痛んだりする。",
 		"answer": "みをけずる",
+		"answer_opt": "身を削る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "寒さや苦しさや悲しさがとても厳しく感じられる。",
 		"answer": "みをきられるよう",
+		"answer_opt": "身を切られるよう",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "一生懸命打ち込む。",
 		"answer": "みをいれる",
+		"answer_opt": "身を入れる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "過去の状態と比較するとみすぼらしくみじめである。",
 		"answer": "みるかげもない",
+		"answer_opt": "見る影もない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "言葉がはっきりとしすぎていて、おもしろみも何もない。",
 		"answer": "みもふたもない",
+		"answer_opt": "身も蓋もない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "①めまいがする②非常に速いことや忙しいことのたとえ。",
 		"answer": "めがまわる",
+		"answer_opt": "目が回る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "目上の人に気に入られる。認められる。",
 		"answer": "めがねにかなう",
+		"answer_opt": "眼鏡にかなう",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "①思わず夢中になってしまうほどに好きである。 ②物事の価値などを正しく判断する力がない。",
 		"answer": "めがない",
+		"answer_opt": "目がない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "注意や監督が行き渡る。",
 		"answer": "めがとどく",
+		"answer_opt": "目が届く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "報われない状態から抜け出し、成功の糸口が見えてくる。幸運が巡ってくる。",
 		"answer": "めがでる",
+		"answer_opt": "芽が出る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物事がうまい具合に進む。幸運が巡ってくる。",
 		"answer": "めがでる",
+		"answer_opt": "目が出る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物の価値を見極める力を持っている。",
 		"answer": "めがたかい",
+		"answer_opt": "目が高い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "深く感動して、涙が浮かんでくる。",
 		"answer": "めがしらがあつくなる",
+		"answer_opt": "目頭が熱くなる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "迷いがなくなり、本来の進むべき道に戻る。",
 		"answer": "めがさめる",
+		"answer_opt": "目が覚める",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "優れたものを何度も見て、価値を見分ける力をつける。",
 		"answer": "めがこえる",
+		"answer_opt": "目が肥える",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "①強い光などで、目が見えなくなる。 ②何かに心を奪われ、判断ができなくなる。",
 		"answer": "めがくらむ",
+		"answer_opt": "目が眩む",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物の本当の価値や真贋 （本物か偽物かどうか） を見分ける力を持っている。",
 		"answer": "めがきく",
+		"answer_opt": "目が利く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "勝ち負け、幸不幸など、二つの反対のものが、はっきりと分けられる。",
 		"answer": "めいあんをわける",
+		"answer_opt": "明暗を分ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "役に立たないだけでなく、むしろ邪魔になるもの。",
 		"answer": "むようのちょうぶつ",
+		"answer_opt": "無用の長物",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "堂々とした、自信に満ちた態度をとる。",
 		"answer": "むねをはる",
+		"answer_opt": "胸を張る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "心配事がなくなったり、物事がうまくいき、安心する。",
 		"answer": "むねをなでおろす",
+		"answer_opt": "胸をなで下ろす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "実力のない人が、自分よりも実力のある人に相手をしてもらう。",
 		"answer": "むねをかりる",
+		"answer_opt": "胸を借りる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "実力のある人が、自分よりも実力が下の人の相手をしてあげること。",
 		"answer": "むねをかす",
+		"answer_opt": "胸を貸す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "深く感動する。深く感動させる。",
 		"answer": "むねをうつ",
+		"answer_opt": "胸を打つ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "大切なことを、しっかりと心にとどめて、忘れないようにする。",
 		"answer": "むねにきざむ",
+		"answer_opt": "胸に刻む",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "意外すぎるものを見て、にわかには信じられず見間違いではないかとさえ思ってしまう。",
 		"answer": "めをうたがう",
+		"answer_opt": "目を疑う",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "何の興味も示さず、見向きもしない。",
 		"answer": "めもくれない",
+		"answer_opt": "目もくれない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "あまりにも悲惨な状態で、見るに堪えない。",
 		"answer": "めもあてられない",
+		"answer_opt": "目も当てられない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "見当や見通しをつける。目標を決める。",
 		"answer": "めぼしをつける",
+		"answer_opt": "目星を付ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "絶望的になり、どうすればいいのかわからなくなる。",
 		"answer": "めのまえがまっくらになる",
+		"answer_opt": "目の前が真っ暗になる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "見ると欲しくなってしまったり、害になったりするので、見ないほうがいい物。",
 		"answer": "めのどく",
+		"answer_opt": "目の毒",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "誰かのことをやたらと嫌い、敵視する。",
 		"answer": "めのかたきにする",
+		"answer_opt": "目の敵にする",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "何かに怒ったり、驚いたり、熱中したりして、目つきが変わる様子。",
 		"answer": "めのいろをかえる",
+		"answer_opt": "目の色を変える",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "はっきりと確認することができないくらい、動きが素早い様子。",
 		"answer": "めにもとまらぬ",
+		"answer_opt": "目にも留まらぬ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "いくつかあるもののなかで、特に注意をひきつける。",
 		"answer": "めにとまる",
+		"answer_opt": "目に留まる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "目の前にはない様子や姿を、実際に見ているかのように思い浮かべることができる。",
 		"answer": "めにうかぶ",
+		"answer_opt": "目に浮かぶ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "子どもや孫などがかわいくてたまらない。",
 		"answer": "めにいれてもいたくない",
+		"answer_opt": "目に入れても痛くない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物事の程度がひどすぎて、無視できない。",
 		"answer": "めにあまる",
+		"answer_opt": "目に余る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "二つの場所の距離がとても近い様子。",
 		"answer": "めとはなのさき",
+		"answer_opt": "目と鼻の先",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物事を実現させるための見通しがはっきりする。",
 		"answer": "めどがつく",
+		"answer_opt": "めどが付く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "人や物がたくさん混みあって並んだり、集中して物事がある。",
 		"answer": "めじろおし",
+		"answer_opt": "目白押し",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "ささいなことで他人を責めること。",
 		"answer": "めくじらをたてる",
+		"answer_opt": "目くじらを立てる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "頭を強くぶつけた時などに、一瞬目の前で光が飛び交うように感じること。",
 		"answer": "めからひがでる",
+		"answer_opt": "目から火が出る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "抜け目がなく、判断がすばやい。賢くて、利口なさま。",
 		"answer": "めからはなへぬける",
+		"answer_opt": "目から鼻へ抜ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "あるきっかけで、それまでわからなかった物事が急に理解できるようになる。",
 		"answer": "めからうろこがおちる",
+		"answer_opt": "目から鱗が落ちる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "①技術などを習得する。 ②狙っていたものを手に入れる。",
 		"answer": "ものにする",
+		"answer_opt": "物にする",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "幼児期を過ぎるくらいまで成長して、世の中のことが少しずつ分かり始めてくる。",
 		"answer": "ものごころがつく",
+		"answer_opt": "物心が付く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "努力の成果だけでなく、失う必要のないものまで何もかも失う。",
 		"answer": "もともこもない",
+		"answer_opt": "元も子もない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "一旦関係が悪くなった者同士が、再び元の親しい関係に戻る。",
 		"answer": "もとのさやにおさまる",
+		"answer_opt": "元のさやに納まる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "①自分の名誉を傷つけずに済む。②それまで以上に、世間での評価を高める。",
 		"answer": "めんぼくをほどこす",
+		"answer_opt": "面目を施す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "驚きや感心から、目を大きく見開く。",
 		"answer": "めをみはる",
+		"answer_opt": "目を見張る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "①気絶してしまう。 ②非常に忙しいさま。",
 		"answer": "めをまわす",
+		"answer_opt": "目を回す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "驚いて目を見開く。",
 		"answer": "めをまるくする",
+		"answer_opt": "目を丸くする",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "かわいいものを見たり、うれしいことがあって、にっこりほほ笑む。",
 		"answer": "めをほそめる",
+		"answer_opt": "目を細める",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "不正などが無いように、注意して見張る。",
 		"answer": "めをひからす",
+		"answer_opt": "目を光らす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "油断したりして、注意して見ていたものから目をそらす。",
 		"answer": "めをはなす",
+		"answer_opt": "目を離す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "人に見られないように、こっそりと事を行う。",
 		"answer": "めをぬすむ",
+		"answer_opt": "目を盗む",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "本などの全体を、大まかに見たり読んだりする。",
 		"answer": "めをとおす",
+		"answer_opt": "目を通す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "人の欠点や悪事・失敗に気が付いていても、見て見ぬふりをする。",
 		"answer": "めをつぶる",
+		"answer_opt": "目をつぶる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "関心をもって注意を向け様子を見る。",
 		"answer": "めをつける",
+		"answer_opt": "目を付ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "あまりの苦しさに目を激しく動かす様子。あわてふためく様子。",
 		"answer": "めをしろくろさせる",
+		"answer_opt": "目を白黒させる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物を探す時や、何かに驚いた時などに、目を大きく見開く。",
 		"answer": "めをさらのようにする",
+		"answer_opt": "目を皿のようにする",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "じっと見つめる。",
 		"answer": "めをこらす",
+		"answer_opt": "目を凝らす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "見落としがないように、あちこちを注意して見る。",
 		"answer": "めをくばる",
+		"answer_opt": "目を配る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "気に入っている人などを特にひいきしたり、世話したりする。",
 		"answer": "めをかける",
+		"answer_opt": "目を掛ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "たくさんの人から特に一人を選んで、その人を集中して非難・攻撃する。",
 		"answer": "やりだまにあげる",
+		"answer_opt": "槍玉に挙げる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "思い詰めて、我慢することができない。あることがしたくてたまらない。",
 		"answer": "やもたてもたまらず",
+		"answer_opt": "矢も楯もたまらず",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "ある事について予想を立てて、それをもとに準備する。",
 		"answer": "やまをかける",
+		"answer_opt": "山を掛ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "困難なことを終えて、目標を達成する見通しが立つ。",
 		"answer": "やまがみえる",
+		"answer_opt": "山が見える",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "勘が当たること。予想していたとおりになる。",
 		"answer": "やまがあたる",
+		"answer_opt": "山が当たる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "前触れもなく、いきなり何かを言ったりやったりする。",
 		"answer": "やぶからぼう",
+		"answer_opt": "藪から棒",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "はやくするようにと、しきりに催促する。",
 		"answer": "やのさいそく",
+		"answer_opt": "矢の催促",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "公職（公務員や議員、政治家などの公的な仕事）を退いて、民間の人になる。下野する。",
 		"answer": "やにくだる",
+		"answer_opt": "野に下る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "無理に相手に逆らわず、さらりと軽く受け流し相手にしない。",
 		"answer": "やなぎにかぜ",
+		"answer_opt": "柳に風",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "どんなに衰えたり、落ちぶれたりしても。",
 		"answer": "やせてもかれても",
+		"answer_opt": "痩せても枯れても",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "他人を邪魔するために、大声で相手をからかったり、ひやかしたりする。",
 		"answer": "やじをとばす",
+		"answer_opt": "野次を飛ばす",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "少しぐらいの努力や援助では、効果が上がらない。",
 		"answer": "やけいしにみず",
+		"answer_opt": "焼け石に水",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "知恵や人柄、駆け引きなどが、他人よりも一段優れている。",
 		"answer": "やくしゃがいちまいうえ",
+		"answer_opt": "役者が一枚上",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "相手の質問や攻撃が集中する立場に立つ。",
 		"answer": "やおもてにたつ",
+		"answer_opt": "矢面に立つ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "訪ねてきた人に会わずに、追い返す。",
 		"answer": "もんぜんばらい",
+		"answer_opt": "門前払い",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "役に立ったり、相手に打撃を与えたりすることができる一方で、自分にも害を与える可能性のあるもの。",
 		"answer": "もろはのつるぎ",
+		"answer_opt": "諸刃の剣",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "困った時、一人で考えず人に相談すべきである。また、そうすれば解決策が出てくるかもしれないということ。",
 		"answer": "ものはそうだん",
+		"answer_opt": "物は相談",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "手際がよく、あざやかである。実に見事な様子。",
 		"answer": "もののみごとに",
+		"answer_opt": "物の見事に",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "注目すべき、問題するに値するもの。",
 		"answer": "もののかず",
+		"answer_opt": "物の数",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "①一人前になる。 ②物事が出来上がる。",
 		"answer": "ものになる",
+		"answer_opt": "物になる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "他のことに気を散らさずに、一つのことに集中する。",
 		"answer": "よねんがない",
+		"answer_opt": "余念がない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "正面から堂々と相手にぶつかる。",
 		"answer": "よつにくむ",
+		"answer_opt": "四つに組む",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "関係のない人が横から口出しして話や行動を妨げる。",
 		"answer": "よこやりをいれる",
+		"answer_opt": "横槍を入れる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "めんどうくさがって、何もしない。",
 		"answer": "よこのものをたてにもしない",
+		"answer_opt": "横の物を縦にもしない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "道理に合わないことを、力づくで押し通す。",
 		"answer": "よこぐるまをおす",
+		"answer_opt": "横車を押す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "欲望のせいで正しい判断ができなくなる。",
 		"answer": "よくにめくらむ",
+		"answer_opt": "欲に目眩む",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "肝心なことが何なのかはっきりしない。",
 		"answer": "ようりょうをえない",
+		"answer_opt": "要領を得ない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "①手際が良い②立ち回りがうまく人に取り入るのがうまい。",
 		"answer": "ようりょうがいい",
+		"answer_opt": "要領がいい",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "世界中どこでも。",
 		"answer": "ようのとうざいをとわず",
+		"answer_opt": "洋の東西を問わず",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "必要にして十分である。",
 		"answer": "ようがたりる",
+		"answer_opt": "用が足りる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "夢の中に神仏や個人が現れて、物事を告げる。",
 		"answer": "ゆめまくらにたつ",
+		"answer_opt": "夢枕に立つ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "夢の中で見る夢のように、とてもはかないこと。実現しそうにないこと。",
 		"answer": "ゆめのまたゆめ",
+		"answer_opt": "夢のまた夢",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "背き逆らう。",
 		"answer": "ゆみをひく",
+		"answer_opt": "弓を引く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "お金をおしみなく浪費する。",
 		"answer": "ゆみずのようにつかう",
+		"answer_opt": "湯水のように使う",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "持てる力のすべてを出し切って戦い敗れ、それ以上どうにもならない。",
 		"answer": "ゆみおれやつきる",
+		"answer_opt": "弓折れ矢尽きる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "うらやましくおもっているのに、手を出すことができない。",
 		"answer": "ゆびをくわえる",
+		"answer_opt": "指をくわえる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "一日一日を数えながら、その日が来るのを待ち遠しく思う。",
 		"answer": "ゆびおりかぞえる",
+		"answer_opt": "指折り数える",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "少しも油断できない。",
 		"answer": "ゆだんもすきもない",
+		"answer_opt": "油断も隙もない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "勇気を出して決断する。",
 		"answer": "ゆうだんをくだす",
+		"answer_opt": "勇断を下す",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "物事をやり通して、最後に立派な成果を上げて終わる。",
 		"answer": "ゆうしゅうのびをかざる",
+		"answer_opt": "有終の美を飾る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "他人のことは気にせず、自分の思うとおりに行動する。",
 		"answer": "わがみちをいく",
+		"answer_opt": "我が道を行く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "若さからよく考えずに感情のままに行動して、失敗をすること。",
 		"answer": "わかげのいたり",
+		"answer_opt": "若気の至り",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "自分の考えとぴったり一致する。物事が自分の思った通りに進む。",
 		"answer": "わがいをえる",
+		"answer_opt": "我が意を得る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "議論するまでもない当然のことである。",
 		"answer": "ろんをまたない",
+		"answer_opt": "論をまたない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "舌が回らず言葉をうまく話せない様子。",
 		"answer": "ろれつがまわらない",
+		"answer_opt": "呂律が回らない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "家や仕事がなくなってしまい、ひどく困ってしまう。",
 		"answer": "ろとうにまよう",
+		"answer_opt": "路頭に迷う",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "老いて弱った体を励ましながら物事を行う。",
 		"answer": "ろうこつにむちうつ",
+		"answer_opt": "老骨に鞭打つ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "一方的に決めつけて評価する。",
 		"answer": "レッテルをはる",
+		"answer_opt": "レッテルを貼る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "いつもと同じことの繰り返しで、新しいことは何もない。",
 		"answer": "れいによってれいのごとし",
+		"answer_opt": "例によって例のごとし",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "二つの物の優劣などを比較する。対立する二つのどちらを選んでも損の無いように両者と関係を付ける。「天秤に掛ける」 と同意。",
 		"answer": "りょうてんびんにかける",
+		"answer_opt": "両天秤に掛ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "①一人の男性が二人の女性を連れている。 ②二つのすばらしいものを一度に手に入れる。",
 		"answer": "りょうてにはな",
+		"answer_opt": "両手に花",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "優劣つけがたい二人の強豪が争う。",
 		"answer": "りゅうこあいうつ",
+		"answer_opt": "竜虎相打つ",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "不平不満や怒りが消えて気が晴れる。すっきりする。",
 		"answer": "りゅういんがさがる",
+		"answer_opt": "溜飲が下がる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "問題が解決しない。仕事がはかどらない。",
 		"answer": "らちがあかない",
+		"answer_opt": "埒が明かない",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "消せない汚名 （悪い・不名誉な評判） を受ける。また、そのような人物だと決めつけられる。",
 		"answer": "らくいんをおされる",
+		"answer_opt": "烙印を押される",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "世の中に遠慮して、人前に出るのを避ける。人目を避けてひっそりと暮らす。",
 		"answer": "よをはばかる",
+		"answer_opt": "世をはばかる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "徹夜で物事を行う。",
 		"answer": "よるをてっする",
+		"answer_opt": "夜を徹する",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "世間の人々がみんなで。",
 		"answer": "よをあげて",
+		"answer_opt": "世を挙げて",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "弱々しく、意気地のないことを言う。",
 		"answer": "よわねをはく",
+		"answer_opt": "弱音を吐く",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "ある物事を引き起こすきっかけになる。",
 		"answer": "よびみずになる",
+		"answer_opt": "呼び水になる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "いいことでも悪いことでも、一層大げさににする。",
 		"answer": "わをかける",
+		"answer_opt": "輪を掛ける",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "すっかり夢中になって、冷静に判断する力を失う。",
 		"answer": "われをわすれる",
+		"answer_opt": "我を忘れる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "気を失っていたり、何かに心を奪われていた状態から、正気に返る。",
 		"answer": "われにかえる",
+		"answer_opt": "我に返る",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "損をする。",
 		"answer": "わりをくう",
+		"answer_opt": "割を食う",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "努力や苦労に比べて、利益のほうが多い。苦労に見合う価値がある。",
 		"answer": "わりにあう",
+		"answer_opt": "割に合う",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "窮地に立たされた時に、全く頼りにならない物にさえすがろうとする。",
 		"answer": "わらにもすがる",
+		"answer_opt": "藁にもすがる",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "困っているときや何かをしたいときに、都合のいいことが起こる。",
 		"answer": "わたりにふね",
+		"answer_opt": "渡りに船",
 		"category": 4,
 		"type": 1
 		},
 		{
 		"question": "よそ見をせず、ひたすらひとつのことに集中する。",
 		"answer": "わきめもふらず",
+		"answer_opt": "脇目も振らず",
 		"category": 4,
 		"type": 1
 		}
